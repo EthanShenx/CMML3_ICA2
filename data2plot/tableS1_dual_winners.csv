@@ -1,0 +1,21 @@
+protein,ligand,substrate,DG,distance,confidence,category,near
+A13,32_9-cis-Retinal,9-cis-retinal,-9.66,2.954,-2.26,Retinoid,False
+A8,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.62,2.084,-2.94,Retinoid,True
+A10,32_9-cis-Retinal,9-cis-retinal,-9.55,3.713,-1.2,Retinoid,False
+A8,32_9-cis-Retinal,9-cis-retinal,-9.43,2.399,-2.98,Retinoid,True
+A9,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.35,1.835,-0.91,Retinoid,True
+A10,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.16,1.978,-1.74,Retinoid,True
+A13,25_hexadecanal,hexadecanal,-9.06,2.092,-2.02,Medium-chain,True
+A8,26_trans-2-hexadecenal,t-2-hexadecenal,-8.78,2.274,-1.32,"α,β-Unsaturated",True
+A8,25_hexadecanal,hexadecanal,-8.77,2.266,-1.24,Medium-chain,True
+A11,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-8.72,3.488,-1.23,Retinoid,False
+A9,25_hexadecanal,hexadecanal,-8.6,1.438,-0.52,Medium-chain,True
+A8,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,-8.58,1.594,-1.81,Aromatic,True
+A9,26_trans-2-hexadecenal,t-2-hexadecenal,-8.44,1.614,-0.82,"α,β-Unsaturated",True
+A9,24_Tetradecanal,Tetradecanal,-8.35,1.71,-0.54,Medium-chain,True
+A9,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,-8.32,2.101,-0.52,Aromatic,True
+A8,19_dodecanal,dodecanal,-8.27,2.514,-0.74,Medium-chain,False
+A8,24_Tetradecanal,Tetradecanal,-8.27,2.096,-1.14,Medium-chain,True
+A11,32_9-cis-Retinal,9-cis-retinal,-8.24,1.863,-1.13,Retinoid,True
+A10,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,-8.24,1.791,-1.88,Aromatic,True
+A10,24_Tetradecanal,Tetradecanal,-8.16,1.39,-2.38,Medium-chain,True

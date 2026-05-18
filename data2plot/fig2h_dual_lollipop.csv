@@ -1,0 +1,16 @@
+protein,ligand,short_name,label,DG,distance
+A9,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,A9  iPr-Ph methylpropanal,-8.32,2.101
+A9,24_Tetradecanal,Tetradecanal,A9  Tetradecanal,-8.35,1.71
+A9,26_trans-2-hexadecenal,t-2-hexadecenal,A9  t-2-hexadecenal,-8.44,1.614
+A8,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,A8  iPr-Ph methylpropanal,-8.58,1.594
+A9,25_hexadecanal,hexadecanal,A9  hexadecanal,-8.6,1.438
+A11,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,A11  β-carotene ald.,-8.72,3.488
+A8,25_hexadecanal,hexadecanal,A8  hexadecanal,-8.77,2.266
+A8,26_trans-2-hexadecenal,t-2-hexadecenal,A8  t-2-hexadecenal,-8.78,2.274
+A13,25_hexadecanal,hexadecanal,A13  hexadecanal,-9.06,2.092
+A10,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,A10  β-carotene ald.,-9.16,1.978
+A9,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,A9  β-carotene ald.,-9.35,1.835
+A8,32_9-cis-Retinal,9-cis-retinal,A8  9-cis-retinal,-9.43,2.399
+A10,32_9-cis-Retinal,9-cis-retinal,A10  9-cis-retinal,-9.55,3.713
+A8,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,A8  β-carotene ald.,-9.62,2.084
+A13,32_9-cis-Retinal,9-cis-retinal,A13  9-cis-retinal,-9.66,2.954

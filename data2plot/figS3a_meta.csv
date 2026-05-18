@@ -1,0 +1,60 @@
+label,ligand,category
+10,10_4-guanidinobutyraldehyde,Semialdehyde
+11,11_prop-2-enal,"α,β-Unsaturated"
+12,12_prop-2-ynal,"α,β-Unsaturated"
+13,13_(2E)-but-2-enal,"α,β-Unsaturated"
+14,14_trans-2-Hexenal,"α,β-Unsaturated"
+15,15_heptanal,Medium-chain
+16,16_octanaldehyde,Medium-chain
+17,17_nonanal,Medium-chain
+18,18_decanal,Medium-chain
+19,19_dodecanal,Medium-chain
+1,1_formaldehyde,Short-chain
+20,20_Citral,"α,β-Unsaturated"
+21,21_cis-2-Octenal,"α,β-Unsaturated"
+22,22_trans-2-Octenal,"α,β-Unsaturated"
+23,23_4-Hydroxynonenal,"α,β-Unsaturated"
+24,24_Tetradecanal,Medium-chain
+25,25_hexadecanal,Medium-chain
+26,26_trans-2-hexadecenal,"α,β-Unsaturated"
+27,27_Benzaldehyde,Aromatic
+28,28_Phenylacetaldehyde,Aromatic
+29,29_Salicylaldehyde,Aromatic
+2,2_acetaldehyde,Short-chain
+30,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",Aromatic
+31,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",Retinoid
+32,32_9-cis-Retinal,Retinoid
+33,33_11-cis-Retinol,Retinoid
+34,34_4-hydroxy-2-nonenal,"α,β-Unsaturated"
+35,35_Cinnamaldehyde,Aromatic
+36,36_3-(4-Isopropylphenyl)-2-methylpropanal,Aromatic
+37,37_thiobenzaldehyde,Aromatic
+38,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",Aromatic
+39,39_4-nitrobenzaldehyde,Aromatic
+3,3_propylaldehyde,Short-chain
+40,40_Furan-2-carbaldehyde,Aromatic
+41,41_Indole-3-acetaldehyde,Aromatic
+42,42_Glutamate-5-semialdehyde,Semialdehyde
+43,43_Glutamate-1-semialdehyde,Semialdehyde
+44,44_glutarate semialdehyde,Semialdehyde
+45,45_adipate semialdehyde,Semialdehyde
+46,46_Succinic semialdehyde,Semialdehyde
+47,47_methylmalonate semialdehyde,Semialdehyde
+48,48_alpha-aminoadipate semialdehyde,Semialdehyde
+49,49_2-Aminomuconic semialdehyde,Semialdehyde
+4,4_malonaldehyde,Short-chain
+50,50_10-formyltetrahydrofolate,Other
+51,51_6R-Tetrahydrofolic acid,Other
+52,52_Triose phosphate,Other
+53,53_Pyridoxal phosphate,Other
+55,55_Ethanol,Other
+56,56_S-hydroxy-methylglutathione,Other
+57,57_S-3-oxopropylglutathione,Other
+58,58_S-(4-oxobutan-2-yl)glutathione,Other
+59,59_4-Hydroxynonenal_glutathione,Other
+5,5_butyraldehyde,Short-chain
+60,60_S-Formylglutathione,Other
+6,6_amylaldehyde,Short-chain
+7,7_glutaraldehyde,Medium-chain
+8,8_hexanal,Medium-chain
+9,9_2-hydroxypropionaldehyde,Short-chain

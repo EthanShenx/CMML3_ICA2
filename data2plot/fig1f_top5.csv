@@ -1,0 +1,36 @@
+protein,ligand,short_name,DG_prediction_kcalmol
+A10,32_9-cis-Retinal,9-cis-retinal,-9.55
+A10,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.16
+A10,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,-8.24
+A10,24_Tetradecanal,Tetradecanal,-8.16
+A10,26_trans-2-hexadecenal,t-2-hexadecenal,-8.06
+A11,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-8.72
+A11,32_9-cis-Retinal,9-cis-retinal,-8.24
+A11,58_S-(4-oxobutan-2-yl)glutathione,S-4-oxobutyl-GSH,-8.21
+A11,50_10-formyltetrahydrofolate,10-formyl-THF,-8.19
+A11,57_S-3-oxopropylglutathione,S-3-oxopropyl-GSH,-7.82
+A12,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-10.45
+A12,32_9-cis-Retinal,9-cis-retinal,-9.81
+A12,25_hexadecanal,hexadecanal,-9.0
+A12,26_trans-2-hexadecenal,t-2-hexadecenal,-8.95
+A12,24_Tetradecanal,Tetradecanal,-8.58
+A13,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.67
+A13,32_9-cis-Retinal,9-cis-retinal,-9.66
+A13,25_hexadecanal,hexadecanal,-9.06
+A13,26_trans-2-hexadecenal,t-2-hexadecenal,-8.8
+A13,24_Tetradecanal,Tetradecanal,-8.43
+A14,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.33
+A14,32_9-cis-Retinal,9-cis-retinal,-8.82
+A14,26_trans-2-hexadecenal,t-2-hexadecenal,-8.55
+A14,25_hexadecanal,hexadecanal,-8.47
+A14,20_Citral,Citral,-8.04
+A8,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.62
+A8,32_9-cis-Retinal,9-cis-retinal,-9.43
+A8,26_trans-2-hexadecenal,t-2-hexadecenal,-8.78
+A8,25_hexadecanal,hexadecanal,-8.77
+A8,36_3-(4-Isopropylphenyl)-2-methylpropanal,iPr-Ph methylpropanal,-8.58
+A9,32_9-cis-Retinal,9-cis-retinal,-9.37
+A9,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",β-carotene ald.,-9.35
+A9,25_hexadecanal,hexadecanal,-8.6
+A9,26_trans-2-hexadecenal,t-2-hexadecenal,-8.44
+A9,24_Tetradecanal,Tetradecanal,-8.35

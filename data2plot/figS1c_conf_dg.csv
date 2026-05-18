@@ -1,0 +1,414 @@
+protein,ligand,confidence,DG,category
+A10,10_4-guanidinobutyraldehyde,0.04,-5.81,Semialdehyde
+A10,11_prop-2-enal,0.3,-5.99,"α,β-Unsaturated"
+A10,12_prop-2-ynal,-0.08,-5.92,"α,β-Unsaturated"
+A10,13_(2E)-but-2-enal,0.24,-6.21,"α,β-Unsaturated"
+A10,14_trans-2-Hexenal,-0.18,-6.64,"α,β-Unsaturated"
+A10,15_heptanal,-0.34,-6.87,Medium-chain
+A10,16_octanaldehyde,-0.74,-7.05,Medium-chain
+A10,17_nonanal,-2.63,-7.25,Medium-chain
+A10,18_decanal,-2.25,-7.48,Medium-chain
+A10,19_dodecanal,-1.7,-7.86,Medium-chain
+A10,1_formaldehyde,0.6,-5.46,Short-chain
+A10,20_Citral,-0.71,-7.51,"α,β-Unsaturated"
+A10,21_cis-2-Octenal,-0.41,-7.07,"α,β-Unsaturated"
+A10,22_trans-2-Octenal,-0.36,-7.03,"α,β-Unsaturated"
+A10,23_4-Hydroxynonenal,-0.4,-7.42,"α,β-Unsaturated"
+A10,24_Tetradecanal,-2.38,-8.16,Medium-chain
+A10,25_hexadecanal,-2.19,-7.97,Medium-chain
+A10,26_trans-2-hexadecenal,-2.34,-8.06,"α,β-Unsaturated"
+A10,27_Benzaldehyde,-0.57,-6.95,Aromatic
+A10,28_Phenylacetaldehyde,-0.99,-6.98,Aromatic
+A10,29_Salicylaldehyde,-0.62,-6.95,Aromatic
+A10,2_acetaldehyde,0.27,-5.72,Short-chain
+A10,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-1.13,-7.36,Aromatic
+A10,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-1.74,-9.16,Retinoid
+A10,32_9-cis-Retinal,-1.2,-9.55,Retinoid
+A10,33_11-cis-Retinol,-1.99,-8.86,Retinoid
+A10,34_4-hydroxy-2-nonenal,-1.19,-7.38,"α,β-Unsaturated"
+A10,35_Cinnamaldehyde,-0.27,-6.72,Aromatic
+A10,36_3-(4-Isopropylphenyl)-2-methylpropanal,-1.88,-8.24,Aromatic
+A10,37_thiobenzaldehyde,-0.8,-7.06,Aromatic
+A10,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-0.39,-6.64,Aromatic
+A10,39_4-nitrobenzaldehyde,-0.83,-6.74,Aromatic
+A10,3_propylaldehyde,0.37,-5.96,Short-chain
+A10,40_Furan-2-carbaldehyde,-0.02,-7.59,Aromatic
+A10,41_Indole-3-acetaldehyde,-0.55,-7.43,Aromatic
+A10,42_Glutamate-5-semialdehyde,-0.15,-6.29,Semialdehyde
+A10,43_Glutamate-1-semialdehyde,-0.36,-6.21,Semialdehyde
+A10,44_glutarate semialdehyde,0.1,-6.51,Semialdehyde
+A10,45_adipate semialdehyde,-0.13,-6.73,Semialdehyde
+A10,46_Succinic semialdehyde,-0.08,-6.24,Semialdehyde
+A10,47_methylmalonate semialdehyde,-0.39,-6.23,Semialdehyde
+A10,48_alpha-aminoadipate semialdehyde,-0.14,-6.33,Semialdehyde
+A10,49_2-Aminomuconic semialdehyde,-0.24,-6.38,Semialdehyde
+A10,4_malonaldehyde,-0.31,-5.96,Short-chain
+A10,50_10-formyltetrahydrofolate,-0.59,-7.87,Other
+A10,51_6R-Tetrahydrofolic acid,-0.37,-7.91,Other
+A10,52_Triose phosphate,-0.32,-6.06,Other
+A10,53_Pyridoxal phosphate,-0.74,-6.68,Other
+A10,55_Ethanol,-0.15,-5.72,Other
+A10,56_S-hydroxy-methylglutathione,-0.79,-6.88,Other
+A10,57_S-3-oxopropylglutathione,-0.86,-7.5,Other
+A10,58_S-(4-oxobutan-2-yl)glutathione,-1.38,-8.03,Other
+A10,59_4-Hydroxynonenal_glutathione,-1.13,-8.71,Other
+A10,5_butyraldehyde,0.28,-6.2,Short-chain
+A10,60_S-Formylglutathione,-0.97,-7.71,Other
+A10,6_amylaldehyde,0.01,-6.4,Short-chain
+A10,7_glutaraldehyde,-0.08,-6.46,Medium-chain
+A10,8_hexanal,-0.24,-6.62,Medium-chain
+A10,9_2-hydroxypropionaldehyde,-0.12,-6.0,Short-chain
+A11,10_4-guanidinobutyraldehyde,-0.15,-6.09,Semialdehyde
+A11,11_prop-2-enal,0.0,-5.86,"α,β-Unsaturated"
+A11,12_prop-2-ynal,-0.13,-5.82,"α,β-Unsaturated"
+A11,13_(2E)-but-2-enal,-0.15,-6.04,"α,β-Unsaturated"
+A11,14_trans-2-Hexenal,-0.28,-6.4,"α,β-Unsaturated"
+A11,15_heptanal,-0.43,-6.63,Medium-chain
+A11,16_octanaldehyde,-0.4,-6.69,Medium-chain
+A11,17_nonanal,-0.58,-6.82,Medium-chain
+A11,18_decanal,-0.59,-6.95,Medium-chain
+A11,19_dodecanal,-1.18,-7.35,Medium-chain
+A11,1_formaldehyde,0.29,-5.23,Short-chain
+A11,20_Citral,-0.28,-7.17,"α,β-Unsaturated"
+A11,21_cis-2-Octenal,-0.43,-6.69,"α,β-Unsaturated"
+A11,22_trans-2-Octenal,-0.39,-6.71,"α,β-Unsaturated"
+A11,23_4-Hydroxynonenal,-0.16,-7.07,"α,β-Unsaturated"
+A11,24_Tetradecanal,-0.86,-7.12,Medium-chain
+A11,25_hexadecanal,-1.63,-7.42,Medium-chain
+A11,26_trans-2-hexadecenal,-1.07,-7.38,"α,β-Unsaturated"
+A11,27_Benzaldehyde,-0.09,-6.58,Aromatic
+A11,28_Phenylacetaldehyde,-0.44,-6.78,Aromatic
+A11,29_Salicylaldehyde,-0.63,-6.69,Aromatic
+A11,2_acetaldehyde,0.14,-5.65,Short-chain
+A11,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-0.35,-7.02,Aromatic
+A11,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-1.23,-8.72,Retinoid
+A11,32_9-cis-Retinal,-1.13,-8.24,Retinoid
+A11,33_11-cis-Retinol,-1.12,-8.06,Retinoid
+A11,34_4-hydroxy-2-nonenal,-0.52,-7.06,"α,β-Unsaturated"
+A11,35_Cinnamaldehyde,-0.24,-6.99,Aromatic
+A11,36_3-(4-Isopropylphenyl)-2-methylpropanal,-0.94,-7.51,Aromatic
+A11,37_thiobenzaldehyde,-0.3,-6.69,Aromatic
+A11,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-0.89,-6.66,Aromatic
+A11,39_4-nitrobenzaldehyde,-0.34,-6.48,Aromatic
+A11,3_propylaldehyde,-0.03,-5.84,Short-chain
+A11,40_Furan-2-carbaldehyde,-0.12,-7.67,Aromatic
+A11,41_Indole-3-acetaldehyde,-0.38,-7.21,Aromatic
+A11,42_Glutamate-5-semialdehyde,-0.33,-6.12,Semialdehyde
+A11,43_Glutamate-1-semialdehyde,-0.35,-5.99,Semialdehyde
+A11,44_glutarate semialdehyde,-0.18,-6.4,Semialdehyde
+A11,45_adipate semialdehyde,-0.28,-6.66,Semialdehyde
+A11,46_Succinic semialdehyde,-0.32,-6.13,Semialdehyde
+A11,47_methylmalonate semialdehyde,-0.37,-6.12,Semialdehyde
+A11,48_alpha-aminoadipate semialdehyde,-0.38,-6.42,Semialdehyde
+A11,49_2-Aminomuconic semialdehyde,-0.52,-6.21,Semialdehyde
+A11,4_malonaldehyde,-0.26,-5.89,Short-chain
+A11,50_10-formyltetrahydrofolate,-0.57,-8.19,Other
+A11,51_6R-Tetrahydrofolic acid,-0.49,-7.59,Other
+A11,52_Triose phosphate,-0.57,-6.1,Other
+A11,53_Pyridoxal phosphate,-0.81,-6.91,Other
+A11,55_Ethanol,-0.2,-5.65,Other
+A11,56_S-hydroxy-methylglutathione,-1.3,-7.44,Other
+A11,57_S-3-oxopropylglutathione,-1.82,-7.82,Other
+A11,58_S-(4-oxobutan-2-yl)glutathione,-1.43,-8.21,Other
+A11,59_4-Hydroxynonenal_glutathione,-0.77,-8.9,Other
+A11,5_butyraldehyde,-0.15,-6.06,Short-chain
+A11,60_S-Formylglutathione,-1.63,-7.39,Other
+A11,6_amylaldehyde,-0.37,-6.22,Short-chain
+A11,7_glutaraldehyde,-0.54,-6.39,Medium-chain
+A11,8_hexanal,-0.43,-6.48,Medium-chain
+A11,9_2-hydroxypropionaldehyde,-0.14,-5.86,Short-chain
+A12,10_4-guanidinobutyraldehyde,-0.32,-5.94,Semialdehyde
+A12,11_prop-2-enal,-0.14,-5.92,"α,β-Unsaturated"
+A12,12_prop-2-ynal,-0.22,-5.96,"α,β-Unsaturated"
+A12,13_(2E)-but-2-enal,-0.1,-6.21,"α,β-Unsaturated"
+A12,14_trans-2-Hexenal,-0.59,-6.7,"α,β-Unsaturated"
+A12,15_heptanal,-0.92,-6.97,Medium-chain
+A12,16_octanaldehyde,-0.75,-7.14,Medium-chain
+A12,17_nonanal,-0.81,-7.39,Medium-chain
+A12,18_decanal,-0.67,-7.56,Medium-chain
+A12,19_dodecanal,-0.56,-8.08,Medium-chain
+A12,1_formaldehyde,-0.2,-5.4,Short-chain
+A12,20_Citral,-0.81,-7.57,"α,β-Unsaturated"
+A12,21_cis-2-Octenal,-0.93,-7.27,"α,β-Unsaturated"
+A12,22_trans-2-Octenal,-0.8,-7.29,"α,β-Unsaturated"
+A12,23_4-Hydroxynonenal,-0.88,-7.31,"α,β-Unsaturated"
+A12,24_Tetradecanal,-0.72,-8.58,Medium-chain
+A12,25_hexadecanal,-0.65,-9.0,Medium-chain
+A12,26_trans-2-hexadecenal,-0.75,-8.95,"α,β-Unsaturated"
+A12,27_Benzaldehyde,-0.15,-6.97,Aromatic
+A12,28_Phenylacetaldehyde,-0.59,-7.15,Aromatic
+A12,29_Salicylaldehyde,-0.32,-6.98,Aromatic
+A12,2_acetaldehyde,-0.09,-5.68,Short-chain
+A12,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-0.97,-7.39,Aromatic
+A12,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-1.57,-10.45,Retinoid
+A12,32_9-cis-Retinal,-0.85,-9.81,Retinoid
+A12,33_11-cis-Retinol,-1.62,-9.13,Retinoid
+A12,34_4-hydroxy-2-nonenal,-0.82,-7.5,"α,β-Unsaturated"
+A12,35_Cinnamaldehyde,-0.6,-7.54,Aromatic
+A12,36_3-(4-Isopropylphenyl)-2-methylpropanal,-1.68,-8.45,Aromatic
+A12,37_thiobenzaldehyde,-0.2,-7.11,Aromatic
+A12,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-1.27,-6.61,Aromatic
+A12,39_4-nitrobenzaldehyde,-0.49,-6.68,Aromatic
+A12,3_propylaldehyde,-0.06,-5.92,Short-chain
+A12,40_Furan-2-carbaldehyde,-0.61,-7.91,Aromatic
+A12,41_Indole-3-acetaldehyde,-0.52,-7.62,Aromatic
+A12,42_Glutamate-5-semialdehyde,-0.32,-6.19,Semialdehyde
+A12,43_Glutamate-1-semialdehyde,-0.44,-6.26,Semialdehyde
+A12,44_glutarate semialdehyde,-0.28,-6.4,Semialdehyde
+A12,45_adipate semialdehyde,-0.44,-6.61,Semialdehyde
+A12,46_Succinic semialdehyde,-0.12,-6.19,Semialdehyde
+A12,47_methylmalonate semialdehyde,-0.36,-6.17,Semialdehyde
+A12,48_alpha-aminoadipate semialdehyde,-0.46,-6.43,Semialdehyde
+A12,49_2-Aminomuconic semialdehyde,-0.21,-6.47,Semialdehyde
+A12,4_malonaldehyde,-0.19,-5.95,Short-chain
+A12,50_10-formyltetrahydrofolate,-1.42,-7.99,Other
+A12,51_6R-Tetrahydrofolic acid,-1.51,-8.98,Other
+A12,52_Triose phosphate,-0.65,-6.05,Other
+A12,53_Pyridoxal phosphate,-0.59,-7.06,Other
+A12,55_Ethanol,-0.51,-5.75,Other
+A12,56_S-hydroxy-methylglutathione,-0.38,-7.52,Other
+A12,57_S-3-oxopropylglutathione,-0.46,-8.23,Other
+A12,58_S-(4-oxobutan-2-yl)glutathione,-1.21,-8.36,Other
+A12,59_4-Hydroxynonenal_glutathione,-1.59,-8.58,Other
+A12,5_butyraldehyde,-0.06,-6.2,Short-chain
+A12,60_S-Formylglutathione,-0.44,-7.52,Other
+A12,6_amylaldehyde,-0.26,-6.46,Short-chain
+A12,7_glutaraldehyde,-0.27,-6.39,Medium-chain
+A12,8_hexanal,-0.7,-6.69,Medium-chain
+A12,9_2-hydroxypropionaldehyde,-0.13,-5.94,Short-chain
+A13,10_4-guanidinobutyraldehyde,-0.7,-5.56,Semialdehyde
+A13,11_prop-2-enal,-0.4,-5.99,"α,β-Unsaturated"
+A13,12_prop-2-ynal,-0.17,-5.96,"α,β-Unsaturated"
+A13,13_(2E)-but-2-enal,-0.68,-6.23,"α,β-Unsaturated"
+A13,14_trans-2-Hexenal,-0.91,-6.76,"α,β-Unsaturated"
+A13,15_heptanal,-1.43,-6.98,Medium-chain
+A13,16_octanaldehyde,-0.84,-7.15,Medium-chain
+A13,17_nonanal,-0.52,-7.42,Medium-chain
+A13,18_decanal,-1.51,-7.38,Medium-chain
+A13,19_dodecanal,-1.41,-8.24,Medium-chain
+A13,1_formaldehyde,0.25,-5.4,Short-chain
+A13,20_Citral,-1.11,-7.82,"α,β-Unsaturated"
+A13,21_cis-2-Octenal,-0.68,-7.16,"α,β-Unsaturated"
+A13,22_trans-2-Octenal,-1.37,-6.95,"α,β-Unsaturated"
+A13,23_4-Hydroxynonenal,-1.18,-7.38,"α,β-Unsaturated"
+A13,24_Tetradecanal,-0.93,-8.43,Medium-chain
+A13,25_hexadecanal,-2.02,-9.06,Medium-chain
+A13,26_trans-2-hexadecenal,-1.58,-8.8,"α,β-Unsaturated"
+A13,27_Benzaldehyde,-0.55,-6.9,Aromatic
+A13,28_Phenylacetaldehyde,-1.21,-7.29,Aromatic
+A13,29_Salicylaldehyde,-1.36,-6.96,Aromatic
+A13,2_acetaldehyde,-0.1,-5.73,Short-chain
+A13,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-1.56,-7.46,Aromatic
+A13,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-2.39,-9.67,Retinoid
+A13,32_9-cis-Retinal,-2.26,-9.66,Retinoid
+A13,33_11-cis-Retinol,-2.45,-9.57,Retinoid
+A13,34_4-hydroxy-2-nonenal,-1.03,-7.4,"α,β-Unsaturated"
+A13,35_Cinnamaldehyde,-1.48,-7.38,Aromatic
+A13,36_3-(4-Isopropylphenyl)-2-methylpropanal,-1.78,-8.26,Aromatic
+A13,37_thiobenzaldehyde,-0.36,-7.41,Aromatic
+A13,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-0.9,-6.59,Aromatic
+A13,39_4-nitrobenzaldehyde,-0.58,-6.72,Aromatic
+A13,3_propylaldehyde,-0.36,-5.96,Short-chain
+A13,40_Furan-2-carbaldehyde,-0.77,-7.88,Aromatic
+A13,41_Indole-3-acetaldehyde,-0.6,-7.49,Aromatic
+A13,42_Glutamate-5-semialdehyde,-0.45,-6.24,Semialdehyde
+A13,43_Glutamate-1-semialdehyde,-0.68,-6.21,Semialdehyde
+A13,44_glutarate semialdehyde,-0.19,-6.46,Semialdehyde
+A13,45_adipate semialdehyde,-0.53,-6.64,Semialdehyde
+A13,46_Succinic semialdehyde,-0.33,-6.2,Semialdehyde
+A13,47_methylmalonate semialdehyde,-0.71,-6.25,Semialdehyde
+A13,48_alpha-aminoadipate semialdehyde,-0.76,-6.54,Semialdehyde
+A13,49_2-Aminomuconic semialdehyde,-0.56,-6.31,Semialdehyde
+A13,4_malonaldehyde,-0.32,-5.96,Short-chain
+A13,50_10-formyltetrahydrofolate,-1.45,-7.29,Other
+A13,51_6R-Tetrahydrofolic acid,-1.03,-7.73,Other
+A13,52_Triose phosphate,-0.73,-6.12,Other
+A13,53_Pyridoxal phosphate,-0.77,-6.96,Other
+A13,55_Ethanol,-0.06,-5.71,Other
+A13,56_S-hydroxy-methylglutathione,-1.18,-7.23,Other
+A13,57_S-3-oxopropylglutathione,-1.25,-7.78,Other
+A13,58_S-(4-oxobutan-2-yl)glutathione,-1.6,-7.76,Other
+A13,59_4-Hydroxynonenal_glutathione,-1.47,-9.14,Other
+A13,5_butyraldehyde,-0.63,-6.28,Short-chain
+A13,60_S-Formylglutathione,-0.98,-7.09,Other
+A13,6_amylaldehyde,-0.77,-6.49,Short-chain
+A13,7_glutaraldehyde,-0.42,-6.46,Medium-chain
+A13,8_hexanal,-0.81,-6.75,Medium-chain
+A13,9_2-hydroxypropionaldehyde,-0.55,-6.02,Short-chain
+A14,10_4-guanidinobutyraldehyde,-0.27,-6.1,Semialdehyde
+A14,11_prop-2-enal,-0.32,-6.09,"α,β-Unsaturated"
+A14,12_prop-2-ynal,-0.32,-6.06,"α,β-Unsaturated"
+A14,13_(2E)-but-2-enal,-0.82,-6.33,"α,β-Unsaturated"
+A14,14_trans-2-Hexenal,-0.47,-6.56,"α,β-Unsaturated"
+A14,15_heptanal,-1.21,-7.03,Medium-chain
+A14,16_octanaldehyde,-0.77,-7.44,Medium-chain
+A14,17_nonanal,-0.52,-7.07,Medium-chain
+A14,18_decanal,-0.59,-7.5,Medium-chain
+A14,19_dodecanal,-1.07,-7.69,Medium-chain
+A14,1_formaldehyde,0.33,-5.42,Short-chain
+A14,20_Citral,-2.24,-8.04,"α,β-Unsaturated"
+A14,21_cis-2-Octenal,-1.3,-7.46,"α,β-Unsaturated"
+A14,22_trans-2-Octenal,-0.48,-7.09,"α,β-Unsaturated"
+A14,23_4-Hydroxynonenal,-0.99,-7.06,"α,β-Unsaturated"
+A14,24_Tetradecanal,-0.63,-7.88,Medium-chain
+A14,25_hexadecanal,-1.14,-8.47,Medium-chain
+A14,26_trans-2-hexadecenal,-1.23,-8.55,"α,β-Unsaturated"
+A14,27_Benzaldehyde,-0.95,-5.89,Aromatic
+A14,28_Phenylacetaldehyde,-1.91,-7.33,Aromatic
+A14,29_Salicylaldehyde,-1.48,-7.18,Aromatic
+A14,2_acetaldehyde,0.44,-5.63,Short-chain
+A14,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-1.01,-7.64,Aromatic
+A14,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-0.59,-9.33,Retinoid
+A14,32_9-cis-Retinal,-1.02,-8.82,Retinoid
+A14,33_11-cis-Retinol,-1.03,-8.71,Retinoid
+A14,34_4-hydroxy-2-nonenal,-0.46,-7.28,"α,β-Unsaturated"
+A14,35_Cinnamaldehyde,-1.2,-7.04,Aromatic
+A14,36_3-(4-Isopropylphenyl)-2-methylpropanal,-0.65,-8.04,Aromatic
+A14,37_thiobenzaldehyde,-0.52,-6.97,Aromatic
+A14,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-0.74,-6.68,Aromatic
+A14,39_4-nitrobenzaldehyde,-1.51,-6.69,Aromatic
+A14,3_propylaldehyde,-0.1,-6.07,Short-chain
+A14,40_Furan-2-carbaldehyde,-0.54,-7.69,Aromatic
+A14,41_Indole-3-acetaldehyde,-0.43,-7.13,Aromatic
+A14,42_Glutamate-5-semialdehyde,-0.77,-6.07,Semialdehyde
+A14,43_Glutamate-1-semialdehyde,-0.55,-6.19,Semialdehyde
+A14,44_glutarate semialdehyde,-0.52,-6.39,Semialdehyde
+A14,45_adipate semialdehyde,-0.43,-6.64,Semialdehyde
+A14,46_Succinic semialdehyde,-0.5,-6.16,Semialdehyde
+A14,47_methylmalonate semialdehyde,-0.9,-6.3,Semialdehyde
+A14,48_alpha-aminoadipate semialdehyde,-0.3,-6.3,Semialdehyde
+A14,49_2-Aminomuconic semialdehyde,-0.72,-6.59,Semialdehyde
+A14,4_malonaldehyde,-0.53,-6.09,Short-chain
+A14,50_10-formyltetrahydrofolate,-1.05,-7.29,Other
+A14,51_6R-Tetrahydrofolic acid,-1.54,-8.44,Other
+A14,52_Triose phosphate,-0.45,-6.31,Other
+A14,53_Pyridoxal phosphate,-0.48,-6.89,Other
+A14,55_Ethanol,-0.28,-5.78,Other
+A14,56_S-hydroxy-methylglutathione,-0.65,-6.98,Other
+A14,57_S-3-oxopropylglutathione,-1.15,-7.57,Other
+A14,58_S-(4-oxobutan-2-yl)glutathione,-1.44,-7.5,Other
+A14,59_4-Hydroxynonenal_glutathione,-0.83,-8.84,Other
+A14,5_butyraldehyde,-0.61,-6.39,Short-chain
+A14,60_S-Formylglutathione,-0.79,-7.08,Other
+A14,6_amylaldehyde,-1.07,-6.63,Short-chain
+A14,7_glutaraldehyde,-0.64,-6.36,Medium-chain
+A14,8_hexanal,-0.57,-6.6,Medium-chain
+A14,9_2-hydroxypropionaldehyde,-0.39,-6.04,Short-chain
+A8,10_4-guanidinobutyraldehyde,-0.27,-5.92,Semialdehyde
+A8,11_prop-2-enal,0.31,-6.0,"α,β-Unsaturated"
+A8,12_prop-2-ynal,-0.07,-5.99,"α,β-Unsaturated"
+A8,13_(2E)-but-2-enal,0.16,-6.27,"α,β-Unsaturated"
+A8,14_trans-2-Hexenal,0.1,-6.79,"α,β-Unsaturated"
+A8,15_heptanal,-0.13,-6.98,Medium-chain
+A8,16_octanaldehyde,-0.32,-7.2,Medium-chain
+A8,17_nonanal,-0.39,-7.5,Medium-chain
+A8,18_decanal,-0.53,-7.74,Medium-chain
+A8,19_dodecanal,-0.74,-8.27,Medium-chain
+A8,1_formaldehyde,0.52,-5.49,Short-chain
+A8,20_Citral,-0.37,-7.77,"α,β-Unsaturated"
+A8,21_cis-2-Octenal,-0.3,-7.23,"α,β-Unsaturated"
+A8,22_trans-2-Octenal,-0.33,-7.23,"α,β-Unsaturated"
+A8,23_4-Hydroxynonenal,-0.25,-7.49,"α,β-Unsaturated"
+A8,24_Tetradecanal,-1.14,-8.27,Medium-chain
+A8,25_hexadecanal,-1.24,-8.77,Medium-chain
+A8,26_trans-2-hexadecenal,-1.32,-8.78,"α,β-Unsaturated"
+A8,27_Benzaldehyde,-0.14,-6.95,Aromatic
+A8,28_Phenylacetaldehyde,-0.09,-7.2,Aromatic
+A8,29_Salicylaldehyde,-0.26,-7.0,Aromatic
+A8,2_acetaldehyde,0.17,-5.73,Short-chain
+A8,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-0.45,-7.54,Aromatic
+A8,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-2.94,-9.62,Retinoid
+A8,32_9-cis-Retinal,-2.98,-9.43,Retinoid
+A8,33_11-cis-Retinol,-2.88,-9.41,Retinoid
+A8,34_4-hydroxy-2-nonenal,-0.28,-7.44,"α,β-Unsaturated"
+A8,35_Cinnamaldehyde,-0.02,-7.51,Aromatic
+A8,36_3-(4-Isopropylphenyl)-2-methylpropanal,-1.81,-8.58,Aromatic
+A8,37_thiobenzaldehyde,0.0,-7.22,Aromatic
+A8,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-0.8,-6.64,Aromatic
+A8,39_4-nitrobenzaldehyde,-0.61,-6.69,Aromatic
+A8,3_propylaldehyde,0.13,-6.0,Short-chain
+A8,40_Furan-2-carbaldehyde,-0.6,-7.95,Aromatic
+A8,41_Indole-3-acetaldehyde,-0.22,-7.78,Aromatic
+A8,42_Glutamate-5-semialdehyde,-0.2,-6.26,Semialdehyde
+A8,43_Glutamate-1-semialdehyde,-0.28,-6.08,Semialdehyde
+A8,44_glutarate semialdehyde,-0.24,-6.51,Semialdehyde
+A8,45_adipate semialdehyde,-0.18,-6.75,Semialdehyde
+A8,46_Succinic semialdehyde,-0.39,-6.2,Semialdehyde
+A8,47_methylmalonate semialdehyde,-0.41,-6.23,Semialdehyde
+A8,48_alpha-aminoadipate semialdehyde,-0.3,-6.53,Semialdehyde
+A8,49_2-Aminomuconic semialdehyde,-0.49,-6.52,Semialdehyde
+A8,4_malonaldehyde,-0.25,-5.99,Short-chain
+A8,50_10-formyltetrahydrofolate,-1.21,-7.69,Other
+A8,51_6R-Tetrahydrofolic acid,-1.15,-7.51,Other
+A8,52_Triose phosphate,-0.53,-6.07,Other
+A8,53_Pyridoxal phosphate,-0.4,-6.65,Other
+A8,55_Ethanol,-0.12,-5.75,Other
+A8,56_S-hydroxy-methylglutathione,-1.31,-7.73,Other
+A8,57_S-3-oxopropylglutathione,-1.27,-7.22,Other
+A8,58_S-(4-oxobutan-2-yl)glutathione,-1.96,-8.42,Other
+A8,59_4-Hydroxynonenal_glutathione,-0.83,-8.24,Other
+A8,5_butyraldehyde,0.12,-6.24,Short-chain
+A8,60_S-Formylglutathione,-1.18,-7.44,Other
+A8,6_amylaldehyde,0.15,-6.47,Short-chain
+A8,7_glutaraldehyde,-0.21,-6.48,Medium-chain
+A8,8_hexanal,0.07,-6.77,Medium-chain
+A8,9_2-hydroxypropionaldehyde,-0.22,-6.03,Short-chain
+A9,10_4-guanidinobutyraldehyde,-0.38,-5.98,Semialdehyde
+A9,11_prop-2-enal,0.11,-5.93,"α,β-Unsaturated"
+A9,12_prop-2-ynal,-0.11,-5.91,"α,β-Unsaturated"
+A9,13_(2E)-but-2-enal,-0.23,-6.14,"α,β-Unsaturated"
+A9,14_trans-2-Hexenal,-0.25,-6.63,"α,β-Unsaturated"
+A9,15_heptanal,-0.43,-6.91,Medium-chain
+A9,16_octanaldehyde,-0.45,-7.13,Medium-chain
+A9,17_nonanal,-0.3,-7.4,Medium-chain
+A9,18_decanal,-0.48,-7.64,Medium-chain
+A9,19_dodecanal,-0.68,-8.06,Medium-chain
+A9,1_formaldehyde,0.21,-5.32,Short-chain
+A9,20_Citral,-0.2,-7.65,"α,β-Unsaturated"
+A9,21_cis-2-Octenal,-0.59,-7.11,"α,β-Unsaturated"
+A9,22_trans-2-Octenal,-0.49,-7.16,"α,β-Unsaturated"
+A9,23_4-Hydroxynonenal,-0.09,-7.37,"α,β-Unsaturated"
+A9,24_Tetradecanal,-0.54,-8.35,Medium-chain
+A9,25_hexadecanal,-0.52,-8.6,Medium-chain
+A9,26_trans-2-hexadecenal,-0.82,-8.44,"α,β-Unsaturated"
+A9,27_Benzaldehyde,-0.14,-6.89,Aromatic
+A9,28_Phenylacetaldehyde,-0.18,-7.16,Aromatic
+A9,29_Salicylaldehyde,-0.79,-6.88,Aromatic
+A9,2_acetaldehyde,0.14,-5.68,Short-chain
+A9,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-0.23,-7.44,Aromatic
+A9,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-0.91,-9.35,Retinoid
+A9,32_9-cis-Retinal,-0.63,-9.37,Retinoid
+A9,33_11-cis-Retinol,-1.13,-9.14,Retinoid
+A9,34_4-hydroxy-2-nonenal,-0.31,-7.35,"α,β-Unsaturated"
+A9,35_Cinnamaldehyde,0.08,-7.42,Aromatic
+A9,36_3-(4-Isopropylphenyl)-2-methylpropanal,-0.52,-8.32,Aromatic
+A9,37_thiobenzaldehyde,-0.07,-7.17,Aromatic
+A9,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-0.84,-6.69,Aromatic
+A9,39_4-nitrobenzaldehyde,-0.73,-6.63,Aromatic
+A9,3_propylaldehyde,0.18,-5.93,Short-chain
+A9,40_Furan-2-carbaldehyde,-0.91,-7.97,Aromatic
+A9,41_Indole-3-acetaldehyde,-0.34,-7.59,Aromatic
+A9,42_Glutamate-5-semialdehyde,-0.13,-6.34,Semialdehyde
+A9,43_Glutamate-1-semialdehyde,-0.35,-6.25,Semialdehyde
+A9,44_glutarate semialdehyde,-0.51,-6.43,Semialdehyde
+A9,45_adipate semialdehyde,-0.16,-6.66,Semialdehyde
+A9,46_Succinic semialdehyde,-0.19,-6.21,Semialdehyde
+A9,47_methylmalonate semialdehyde,-0.27,-6.17,Semialdehyde
+A9,48_alpha-aminoadipate semialdehyde,-0.46,-6.55,Semialdehyde
+A9,49_2-Aminomuconic semialdehyde,-0.61,-6.46,Semialdehyde
+A9,4_malonaldehyde,-0.21,-5.9,Short-chain
+A9,50_10-formyltetrahydrofolate,-1.03,-8.05,Other
+A9,51_6R-Tetrahydrofolic acid,-0.49,-7.99,Other
+A9,52_Triose phosphate,-0.69,-6.11,Other
+A9,53_Pyridoxal phosphate,-0.67,-6.82,Other
+A9,55_Ethanol,-0.14,-5.7,Other
+A9,56_S-hydroxy-methylglutathione,-1.86,-7.47,Other
+A9,57_S-3-oxopropylglutathione,-1.85,-8.19,Other
+A9,58_S-(4-oxobutan-2-yl)glutathione,-2.36,-8.21,Other
+A9,59_4-Hydroxynonenal_glutathione,-1.58,-8.61,Other
+A9,5_butyraldehyde,-0.03,-6.2,Short-chain
+A9,60_S-Formylglutathione,-1.09,-7.58,Other
+A9,6_amylaldehyde,-0.14,-6.4,Short-chain
+A9,7_glutaraldehyde,-0.26,-6.4,Medium-chain
+A9,8_hexanal,-0.26,-6.65,Medium-chain
+A9,9_2-hydroxypropionaldehyde,-0.05,-5.94,Short-chain
