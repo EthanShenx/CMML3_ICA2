@@ -33,7 +33,7 @@ ShenYuchen_github_repo/
   README.md                           # this file
 
   scripts/                            # analysis pipeline (Python + shell)
-    01_make_diffdock_csv.py           # build 7 × 60 batch CSV
+    01_make_diffdock_csv.py           # build batch CSV of protein-substrate pairs
     02_combine.py                     # protein + rank-1 pose -> combined PDB (pure Python)
     02_combine_pymol.py               # PyMOL alternative (kept for reference)
     03_run_prodigy.py                 # batch PRODIGY-LIG ΔG, parses to CSV
@@ -198,8 +198,8 @@ disown
 tail -F launch.log master.log run_a.log run_b.log
 ```
 
-The default scope is **7 proteins (ALDH1A1–1A3, 1A8–1A14, equivalents) ×
-60 aldehydes** = 420 protein–ligand pairs.
+The default scope is the seven proteins (ALDH1A1–1A3, 1A8–1A14, equivalents)
+crossed with the provided aldehyde library.
 
 ## Key Parameters (As Used For The Precomputed Outputs)
 

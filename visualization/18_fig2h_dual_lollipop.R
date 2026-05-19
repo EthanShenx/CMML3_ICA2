@@ -1,4 +1,4 @@
-# Fig 2 panel (h) — top-15 dual-winner pairs (ΔG ≤ −7 AND Cys-SG ≤ 4 Å) lollipop.
+# Fig 2 panel (h) — top dual-winner pairs (ΔG ≤ −7 AND Cys-SG ≤ 4 Å) lollipop.
 suppressPackageStartupMessages({
   library(ggplot2)
 })

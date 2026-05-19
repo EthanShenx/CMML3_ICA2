@@ -15,8 +15,8 @@ applying four independent evaluation standards:
       illustrating a multi-gate decision framework.
 
   (c) PRODIGY-LIG contact-type decomposition — decomposes ΔG into its
-      contact-type components (charged-charged CC, charged-polar CP,
-      charged-apolar CA, polar-apolar PA, apolar-apolar AA) using the
+      contact-type components (apolar-apolar AA, apolar-charged AC,
+      apolar-polar AP, charged-charged CC, charged-polar CP) using the
       published PRODIGY-LIG regression coefficients, revealing whether
       binding is hydrophobic- or electrostatic-driven.
 
@@ -150,13 +150,13 @@ le_median = df.loc[df["is_aldehyde"]==True, "LE"].median()
 df["crit_le"]        = df["LE"] >= le_median                       # ligand-efficient
 
 # ── Step 3: PRODIGY-LIG contact-type decomposition (model-based) ──────────────
-# PRODIGY-LIG uses the regression: ΔG = aC*NCC + b*NCP + c*NCA + d*NAP + e*NAA + f
+# PRODIGY-LIG uses the regression: ΔG = aAA*NAA + bCP*NCP + cAC*NAC + dAP*NAP + eCC*NCC + f
 # Published coefficients (Vangone et al. 2019, Table 1, noelec model):
-#   CC=-0.0936, CP=-0.0357, CA=-0.0270, PA=-0.0184, AA=+0.0332, const=-5.0
+#   AA=-0.0936, CP=-0.0357, AC=-0.0270, AP=-0.0184, CC=+0.0332, const=-5.0
 # Contact counts estimated from ΔG and ligand size proxy:
 #   Total predicted contacts ≈ |ΔG| / |mean_coefficient|; distribute by logP
-# This gives a model-based decomposition for all 413 pairs.
-coef = {"CC":-0.0936,"CP":-0.0357,"CA":-0.0270,"PA":-0.0184,"AA":0.0332}
+# This gives a model-based decomposition for all pairs.
+coef = {"AA":-0.0936,"CP":-0.0357,"AC":-0.0270,"AP":-0.0184,"CC":0.0332}
 const = -5.0
 df_ald = df[df["is_aldehyde"]==True].copy()
 
@@ -165,23 +165,23 @@ df_ald["f_hydrophobic"] = ((df_ald["logP"]+2) / 12.0).clip(0, 1)
 df_ald["f_polar"]       = 1 - df_ald["f_hydrophobic"]
 
 # Solve for total contacts: ΔG - const = N * w_eff
-# w_eff = f_hphob*(coef_CC*0.4 + coef_CA*0.6) + f_pol*(coef_CP*0.4 + coef_PA*0.6)
+# w_eff = f_hphob*(coef_AA*0.4 + coef_AC*0.6) + f_pol*(coef_CP*0.4 + coef_AP*0.6)
 df_ald["w_eff"] = (
-    df_ald["f_hydrophobic"] * (0.4*coef["CC"] + 0.6*coef["CA"])
-  + df_ald["f_polar"]       * (0.4*coef["CP"] + 0.6*coef["PA"])
+    df_ald["f_hydrophobic"] * (0.4*coef["AA"] + 0.6*coef["AC"])
+  + df_ald["f_polar"]       * (0.4*coef["CP"] + 0.6*coef["AP"])
 )
 df_ald["N_total"] = (df_ald["DG_prediction_kcalmol"] - const) / df_ald["w_eff"].clip(upper=-0.01)
 df_ald["N_total"] = df_ald["N_total"].clip(lower=0)
 
 # Decompose into contact types
-df_ald["N_CC"] = (df_ald["N_total"] * df_ald["f_hydrophobic"] * 0.4).clip(lower=0)
-df_ald["N_CA"] = (df_ald["N_total"] * df_ald["f_hydrophobic"] * 0.6).clip(lower=0)
+df_ald["N_AA"] = (df_ald["N_total"] * df_ald["f_hydrophobic"] * 0.4).clip(lower=0)
+df_ald["N_AC"] = (df_ald["N_total"] * df_ald["f_hydrophobic"] * 0.6).clip(lower=0)
 df_ald["N_CP"] = (df_ald["N_total"] * df_ald["f_polar"]       * 0.4).clip(lower=0)
-df_ald["N_PA"] = (df_ald["N_total"] * df_ald["f_polar"]       * 0.6).clip(lower=0)
+df_ald["N_AP"] = (df_ald["N_total"] * df_ald["f_polar"]       * 0.6).clip(lower=0)
 
 # Save contact decomposition
 contact_cols = ["protein","ligand","category","DG_prediction_kcalmol",
-                "CYS_SG_to_aldC_distance_A","LE","N_total","N_CC","N_CA","N_CP","N_PA"]
+                "CYS_SG_to_aldC_distance_A","LE","N_total","N_AA","N_AC","N_CP","N_AP"]
 df_ald[contact_cols].to_csv(RESULTS / "prodigy_contacts.csv", index=False)
 
 # ── Figure S4 ─────────────────────────────────────────────────────────────────
@@ -226,8 +226,8 @@ lbl(ax_a, "a")
 # ── Panel (b): Contact-type decomposition per substrate class ─────────────────
 ax_c = fig.add_subplot(gs[0, 1])
 
-contact_types = ["N_CC","N_CA","N_CP","N_PA"]
-contact_labels = ["CC (apolar–apolar)", "CA (charged–apolar)", "CP (charged–polar)", "PA (polar–apolar)"]
+contact_types = ["N_AA","N_AC","N_CP","N_AP"]
+contact_labels = ["AA (apolar–apolar)", "AC (apolar–charged)", "CP (charged–polar)", "AP (apolar–polar)"]
 contact_colors = ["#F44336","#FF9800","#2196F3","#4CAF50"]
 
 class_means = df_ald.groupby("category")[contact_types].mean().reindex(CAT_ORDER).dropna()
@@ -246,7 +246,7 @@ ax_c.legend(fontsize=10, framealpha=0.85, loc="upper left",
             title_fontsize=9)
 lbl(ax_c, "b")
 
-# ── Panel (c): Multi-criteria decision matrix (top 20 dual-winners) ───────────
+# ── Panel (c): Multi-criteria decision matrix (top dual-winners) ──────────────
 ax_d = fig.add_subplot(gs[1, :])
 
 def norm01(s):

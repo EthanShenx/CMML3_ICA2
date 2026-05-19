@@ -40,7 +40,7 @@ ShenYuchen/figures/panels_R/NN_*.png
 | 15 | `15_fig2e_productive_fraction.R` | Fig 2 (e) — productive fraction per isoform |
 | 16 | `16_fig2f_class_productive.R` | Fig 2 (f) — productive fraction per class |
 | 17 | `17_fig2g_pose_violin.R` | Fig 2 (g) — ΔG productive vs non-productive |
-| 18 | `18_fig2h_dual_lollipop.R` | Fig 2 (h) — top-15 dual-winner pairs |
+| 18 | `18_fig2h_dual_lollipop.R` | Fig 2 (h) — top dual-winner pairs |
 | 19 | `19_fig2i_filter_funnel.R` | Fig 2 (i) — three-gate filter funnel |
 | 21 | `21_figS1a_prodigy_success.R` | Fig S1 (a) — PRODIGY-LIG success rates |
 | 22 | `22_figS1b_smarts.R` | Fig S1 (b) — SMARTS aldehyde identification |
@@ -51,7 +51,7 @@ ShenYuchen/figures/panels_R/NN_*.png
 | 33 | `33_figS3b_dg_class_violin.R` | Fig S3 (b) — ΔG violin per class |
 | 34 | `34_figS3c_median_dist.R` | Fig S3 (c) — median distance per class |
 | 35 | `35_figS3d_radar.R` | Fig S3 (d) — selectivity radar |
-| 36 | `36_tableS1_dual_winners.R` | Table S1 — top-20 dual winners (PNG + LaTeX) |
+| 36 | `36_tableS1_dual_winners.R` | Table S1 — top dual winners (PNG + LaTeX) |
 
 `_palettes.R` defines the shared isoform colours (RColorBrewer "Paired"),
 substrate-class colours, and path helpers. `_figS2_panel.R` is the shared

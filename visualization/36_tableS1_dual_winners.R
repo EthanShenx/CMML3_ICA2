@@ -1,4 +1,4 @@
-# Supplementary Table S1 — top-20 dual-winner pairs.
+# Supplementary Table S1 — top dual-winner pairs.
 # Renders a graphical table image AND emits report/table_S1_dual_winners.tex
 # matching the LaTeX produced by the original Python script.
 suppressPackageStartupMessages({
