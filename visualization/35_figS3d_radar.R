@@ -34,7 +34,7 @@ p <- ggplot(plot_df, aes(x = angle, y = frac,
   scale_colour_manual(values = PROT_COLORS, name = NULL) +
   scale_fill_manual(values = PROT_COLORS, guide = "none") +
   labs(x = NULL, y = NULL,
-       title = "Selectivity profile\n(fraction with ΔG ≤ −6 kcal mol⁻¹)",
+       title = "Selectivity profile\n(fraction with ΔG ≤ −7 kcal mol⁻¹)",
        subtitle = "(d)") +
   theme_minimal(base_size = 9) +
   theme(plot.subtitle = element_text(face = "plain", hjust = -0.05),

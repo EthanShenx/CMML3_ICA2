@@ -1,5 +1,5 @@
 # Fig 1 panel (g) — isoform × substrate binding dot matrix (vertical layout).
-# Columns = substrates with ≥ 1 isoform achieving ΔG ≤ −6, sorted by
+# Columns = substrates with ≥ 1 isoform achieving ΔG ≤ −7, sorted by
 # promiscuity (n_prots) descending then by substrate ID. Rows = the seven
 # isoforms. A filled coloured dot marks each (protein, ligand) pair that
 # meets the threshold; non-binding cells are rendered as small grey rings.
@@ -42,7 +42,7 @@ p <- ggplot(m, aes(x = ligand, y = protein)) +
   scale_fill_manual(values = CAT_COLORS, name = NULL, drop = FALSE) +
   scale_x_discrete(breaks = keep$ligand, labels = keep$label) +
   labs(x = NULL, y = NULL,
-       title = "Pan-ALDH binding at ΔG ≤ −6 kcal mol⁻¹",
+       title = "Pan-ALDH binding at ΔG ≤ −7 kcal mol⁻¹",
        subtitle = "(g)") +
   guides(fill = guide_legend(override.aes = list(size = 3),
                               nrow = 1)) +

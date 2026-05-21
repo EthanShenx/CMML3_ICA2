@@ -1,365 +1,365 @@
 protein,ligand,DG,is_strong,lig_num,category,short_name,n_prots
-A10,10_4-guanidinobutyraldehyde,-5.81,0,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A10,11_prop-2-enal,-5.99,0,11,"α,β-Unsaturated",prop-2-enal,2.0
-A10,12_prop-2-ynal,-5.92,0,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A10,13_(2E)-but-2-enal,-6.21,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A10,14_trans-2-Hexenal,-6.64,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A10,15_heptanal,-6.87,1,15,Medium-chain,heptanal,7.0
-A10,16_octanaldehyde,-7.05,1,16,Medium-chain,octanaldehyde,7.0
-A10,17_nonanal,-7.25,1,17,Medium-chain,nonanal,7.0
-A10,18_decanal,-7.48,1,18,Medium-chain,decanal,7.0
+A10,10_4-guanidinobutyraldehyde,-5.81,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A10,11_prop-2-enal,-5.99,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A10,12_prop-2-ynal,-5.92,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A10,13_(2E)-but-2-enal,-6.21,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A10,14_trans-2-Hexenal,-6.64,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A10,15_heptanal,-6.87,0,15,Medium-chain,heptanal,1.0
+A10,16_octanaldehyde,-7.05,1,16,Medium-chain,octanaldehyde,6.0
+A10,17_nonanal,-7.25,1,17,Medium-chain,nonanal,6.0
+A10,18_decanal,-7.48,1,18,Medium-chain,decanal,6.0
 A10,19_dodecanal,-7.86,1,19,Medium-chain,dodecanal,7.0
 A10,20_Citral,-7.51,1,20,"α,β-Unsaturated",Citral,7.0
-A10,21_cis-2-Octenal,-7.07,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A10,22_trans-2-Octenal,-7.03,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A10,21_cis-2-Octenal,-7.07,1,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A10,22_trans-2-Octenal,-7.03,1,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A10,23_4-Hydroxynonenal,-7.42,1,23,"α,β-Unsaturated",4-HNE,7.0
 A10,24_Tetradecanal,-8.16,1,24,Medium-chain,Tetradecanal,7.0
 A10,25_hexadecanal,-7.97,1,25,Medium-chain,hexadecanal,7.0
 A10,26_trans-2-hexadecenal,-8.06,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A10,27_Benzaldehyde,-6.95,1,27,Aromatic,benzald.,6.0
-A10,28_Phenylacetaldehyde,-6.98,1,28,Aromatic,phenylacetald.,7.0
-A10,29_Salicylaldehyde,-6.95,1,29,Aromatic,salicylald.,7.0
+A10,27_Benzaldehyde,-6.95,0,27,Aromatic,benzald.,0.0
+A10,28_Phenylacetaldehyde,-6.98,0,28,Aromatic,phenylacetald.,5.0
+A10,29_Salicylaldehyde,-6.95,0,29,Aromatic,salicylald.,2.0
 A10,2_acetaldehyde,-5.72,0,2,Short-chain,acetaldehyde,0.0
 A10,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.36,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A10,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.16,1,31,Retinoid,β-carotene ald.,7.0
 A10,32_9-cis-Retinal,-9.55,1,32,Retinoid,9-cis-retinal,7.0
 A10,34_4-hydroxy-2-nonenal,-7.38,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A10,35_Cinnamaldehyde,-6.72,1,35,Aromatic,cinnamald.,7.0
+A10,35_Cinnamaldehyde,-6.72,0,35,Aromatic,cinnamald.,5.0
 A10,36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.24,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A10,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.64,1,38,Aromatic,DHF-OH-acetald.,7.0
-A10,39_4-nitrobenzaldehyde,-6.74,1,39,Aromatic,4-NO₂-benzald.,7.0
-A10,3_propylaldehyde,-5.96,0,3,Short-chain,propylaldehyde,2.0
+A10,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.64,0,38,Aromatic,DHF-OH-acetald.,0.0
+A10,39_4-nitrobenzaldehyde,-6.74,0,39,Aromatic,4-NO₂-benzald.,0.0
+A10,3_propylaldehyde,-5.96,0,3,Short-chain,propylaldehyde,0.0
 A10,40_Furan-2-carbaldehyde,-7.59,1,40,Aromatic,furan-2-carbald.,7.0
 A10,41_Indole-3-acetaldehyde,-7.43,1,41,Aromatic,indole-3-acetald.,7.0
-A10,42_Glutamate-5-semialdehyde,-6.29,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A10,43_Glutamate-1-semialdehyde,-6.21,1,43,Semialdehyde,Glu-1-semiald.,6.0
-A10,44_glutarate semialdehyde,-6.51,1,44,Semialdehyde,glutarate-semiald.,7.0
-A10,45_adipate semialdehyde,-6.73,1,45,Semialdehyde,adipate-semiald.,7.0
-A10,46_Succinic semialdehyde,-6.24,1,46,Semialdehyde,succinic-semiald.,7.0
-A10,47_methylmalonate semialdehyde,-6.23,1,47,Semialdehyde,MeMal-semiald.,7.0
-A10,48_alpha-aminoadipate semialdehyde,-6.33,1,48,Semialdehyde,α-AASA,7.0
-A10,49_2-Aminomuconic semialdehyde,-6.38,1,49,Semialdehyde,2-AM-semiald.,7.0
-A10,4_malonaldehyde,-5.96,0,4,Short-chain,malonaldehyde,1.0
+A10,42_Glutamate-5-semialdehyde,-6.29,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A10,43_Glutamate-1-semialdehyde,-6.21,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A10,44_glutarate semialdehyde,-6.51,0,44,Semialdehyde,glutarate-semiald.,0.0
+A10,45_adipate semialdehyde,-6.73,0,45,Semialdehyde,adipate-semiald.,0.0
+A10,46_Succinic semialdehyde,-6.24,0,46,Semialdehyde,succinic-semiald.,0.0
+A10,47_methylmalonate semialdehyde,-6.23,0,47,Semialdehyde,MeMal-semiald.,0.0
+A10,48_alpha-aminoadipate semialdehyde,-6.33,0,48,Semialdehyde,α-AASA,0.0
+A10,49_2-Aminomuconic semialdehyde,-6.38,0,49,Semialdehyde,2-AM-semiald.,0.0
+A10,4_malonaldehyde,-5.96,0,4,Short-chain,malonaldehyde,0.0
 A10,50_10-formyltetrahydrofolate,-7.87,1,50,Other,10-formyl-THF,7.0
-A10,52_Triose phosphate,-6.06,1,52,Other,Triose phosphate,7.0
-A10,53_Pyridoxal phosphate,-6.68,1,53,Other,Pyridoxal phosphate,7.0
+A10,52_Triose phosphate,-6.06,0,52,Other,Triose phosphate,0.0
+A10,53_Pyridoxal phosphate,-6.68,0,53,Other,Pyridoxal phosphate,1.0
 A10,57_S-3-oxopropylglutathione,-7.5,1,57,Other,S-3-oxopropyl-GSH,7.0
 A10,58_S-(4-oxobutan-2-yl)glutathione,-8.03,1,58,Other,S-4-oxobutyl-GSH,7.0
-A10,5_butyraldehyde,-6.2,1,5,Short-chain,butyraldehyde,7.0
+A10,5_butyraldehyde,-6.2,0,5,Short-chain,butyraldehyde,0.0
 A10,60_S-Formylglutathione,-7.71,1,60,Other,S-formyl-GSH,7.0
-A10,6_amylaldehyde,-6.4,1,6,Short-chain,amylaldehyde,7.0
-A10,7_glutaraldehyde,-6.46,1,7,Medium-chain,glutaraldehyde,7.0
-A10,8_hexanal,-6.62,1,8,Medium-chain,hexanal,7.0
-A10,9_2-hydroxypropionaldehyde,-6.0,1,9,Short-chain,2-hydroxypropionaldeh…,4.0
-A11,10_4-guanidinobutyraldehyde,-6.09,1,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A11,11_prop-2-enal,-5.86,0,11,"α,β-Unsaturated",prop-2-enal,2.0
-A11,12_prop-2-ynal,-5.82,0,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A11,13_(2E)-but-2-enal,-6.04,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A11,14_trans-2-Hexenal,-6.4,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A11,15_heptanal,-6.63,1,15,Medium-chain,heptanal,7.0
-A11,16_octanaldehyde,-6.69,1,16,Medium-chain,octanaldehyde,7.0
-A11,17_nonanal,-6.82,1,17,Medium-chain,nonanal,7.0
-A11,18_decanal,-6.95,1,18,Medium-chain,decanal,7.0
+A10,6_amylaldehyde,-6.4,0,6,Short-chain,amylaldehyde,0.0
+A10,7_glutaraldehyde,-6.46,0,7,Medium-chain,glutaraldehyde,0.0
+A10,8_hexanal,-6.62,0,8,Medium-chain,hexanal,0.0
+A10,9_2-hydroxypropionaldehyde,-6.0,0,9,Short-chain,2-hydroxypropionaldeh…,0.0
+A11,10_4-guanidinobutyraldehyde,-6.09,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A11,11_prop-2-enal,-5.86,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A11,12_prop-2-ynal,-5.82,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A11,13_(2E)-but-2-enal,-6.04,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A11,14_trans-2-Hexenal,-6.4,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A11,15_heptanal,-6.63,0,15,Medium-chain,heptanal,1.0
+A11,16_octanaldehyde,-6.69,0,16,Medium-chain,octanaldehyde,6.0
+A11,17_nonanal,-6.82,0,17,Medium-chain,nonanal,6.0
+A11,18_decanal,-6.95,0,18,Medium-chain,decanal,6.0
 A11,19_dodecanal,-7.35,1,19,Medium-chain,dodecanal,7.0
 A11,20_Citral,-7.17,1,20,"α,β-Unsaturated",Citral,7.0
-A11,21_cis-2-Octenal,-6.69,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A11,22_trans-2-Octenal,-6.71,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A11,21_cis-2-Octenal,-6.69,0,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A11,22_trans-2-Octenal,-6.71,0,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A11,23_4-Hydroxynonenal,-7.07,1,23,"α,β-Unsaturated",4-HNE,7.0
 A11,24_Tetradecanal,-7.12,1,24,Medium-chain,Tetradecanal,7.0
 A11,25_hexadecanal,-7.42,1,25,Medium-chain,hexadecanal,7.0
 A11,26_trans-2-hexadecenal,-7.38,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A11,27_Benzaldehyde,-6.58,1,27,Aromatic,benzald.,6.0
-A11,28_Phenylacetaldehyde,-6.78,1,28,Aromatic,phenylacetald.,7.0
-A11,29_Salicylaldehyde,-6.69,1,29,Aromatic,salicylald.,7.0
+A11,27_Benzaldehyde,-6.58,0,27,Aromatic,benzald.,0.0
+A11,28_Phenylacetaldehyde,-6.78,0,28,Aromatic,phenylacetald.,5.0
+A11,29_Salicylaldehyde,-6.69,0,29,Aromatic,salicylald.,2.0
 A11,2_acetaldehyde,-5.65,0,2,Short-chain,acetaldehyde,0.0
 A11,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.02,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A11,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-8.72,1,31,Retinoid,β-carotene ald.,7.0
 A11,32_9-cis-Retinal,-8.24,1,32,Retinoid,9-cis-retinal,7.0
 A11,34_4-hydroxy-2-nonenal,-7.06,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A11,35_Cinnamaldehyde,-6.99,1,35,Aromatic,cinnamald.,7.0
+A11,35_Cinnamaldehyde,-6.99,0,35,Aromatic,cinnamald.,5.0
 A11,36_3-(4-Isopropylphenyl)-2-methylpropanal,-7.51,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A11,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.66,1,38,Aromatic,DHF-OH-acetald.,7.0
-A11,39_4-nitrobenzaldehyde,-6.48,1,39,Aromatic,4-NO₂-benzald.,7.0
-A11,3_propylaldehyde,-5.84,0,3,Short-chain,propylaldehyde,2.0
+A11,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.66,0,38,Aromatic,DHF-OH-acetald.,0.0
+A11,39_4-nitrobenzaldehyde,-6.48,0,39,Aromatic,4-NO₂-benzald.,0.0
+A11,3_propylaldehyde,-5.84,0,3,Short-chain,propylaldehyde,0.0
 A11,40_Furan-2-carbaldehyde,-7.67,1,40,Aromatic,furan-2-carbald.,7.0
 A11,41_Indole-3-acetaldehyde,-7.21,1,41,Aromatic,indole-3-acetald.,7.0
-A11,42_Glutamate-5-semialdehyde,-6.12,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A11,43_Glutamate-1-semialdehyde,-5.99,0,43,Semialdehyde,Glu-1-semiald.,6.0
-A11,44_glutarate semialdehyde,-6.4,1,44,Semialdehyde,glutarate-semiald.,7.0
-A11,45_adipate semialdehyde,-6.66,1,45,Semialdehyde,adipate-semiald.,7.0
-A11,46_Succinic semialdehyde,-6.13,1,46,Semialdehyde,succinic-semiald.,7.0
-A11,47_methylmalonate semialdehyde,-6.12,1,47,Semialdehyde,MeMal-semiald.,7.0
-A11,48_alpha-aminoadipate semialdehyde,-6.42,1,48,Semialdehyde,α-AASA,7.0
-A11,49_2-Aminomuconic semialdehyde,-6.21,1,49,Semialdehyde,2-AM-semiald.,7.0
-A11,4_malonaldehyde,-5.89,0,4,Short-chain,malonaldehyde,1.0
+A11,42_Glutamate-5-semialdehyde,-6.12,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A11,43_Glutamate-1-semialdehyde,-5.99,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A11,44_glutarate semialdehyde,-6.4,0,44,Semialdehyde,glutarate-semiald.,0.0
+A11,45_adipate semialdehyde,-6.66,0,45,Semialdehyde,adipate-semiald.,0.0
+A11,46_Succinic semialdehyde,-6.13,0,46,Semialdehyde,succinic-semiald.,0.0
+A11,47_methylmalonate semialdehyde,-6.12,0,47,Semialdehyde,MeMal-semiald.,0.0
+A11,48_alpha-aminoadipate semialdehyde,-6.42,0,48,Semialdehyde,α-AASA,0.0
+A11,49_2-Aminomuconic semialdehyde,-6.21,0,49,Semialdehyde,2-AM-semiald.,0.0
+A11,4_malonaldehyde,-5.89,0,4,Short-chain,malonaldehyde,0.0
 A11,50_10-formyltetrahydrofolate,-8.19,1,50,Other,10-formyl-THF,7.0
-A11,52_Triose phosphate,-6.1,1,52,Other,Triose phosphate,7.0
-A11,53_Pyridoxal phosphate,-6.91,1,53,Other,Pyridoxal phosphate,7.0
+A11,52_Triose phosphate,-6.1,0,52,Other,Triose phosphate,0.0
+A11,53_Pyridoxal phosphate,-6.91,0,53,Other,Pyridoxal phosphate,1.0
 A11,57_S-3-oxopropylglutathione,-7.82,1,57,Other,S-3-oxopropyl-GSH,7.0
 A11,58_S-(4-oxobutan-2-yl)glutathione,-8.21,1,58,Other,S-4-oxobutyl-GSH,7.0
-A11,5_butyraldehyde,-6.06,1,5,Short-chain,butyraldehyde,7.0
+A11,5_butyraldehyde,-6.06,0,5,Short-chain,butyraldehyde,0.0
 A11,60_S-Formylglutathione,-7.39,1,60,Other,S-formyl-GSH,7.0
-A11,6_amylaldehyde,-6.22,1,6,Short-chain,amylaldehyde,7.0
-A11,7_glutaraldehyde,-6.39,1,7,Medium-chain,glutaraldehyde,7.0
-A11,8_hexanal,-6.48,1,8,Medium-chain,hexanal,7.0
-A11,9_2-hydroxypropionaldehyde,-5.86,0,9,Short-chain,2-hydroxypropionaldeh…,4.0
-A12,10_4-guanidinobutyraldehyde,-5.94,0,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A12,11_prop-2-enal,-5.92,0,11,"α,β-Unsaturated",prop-2-enal,2.0
-A12,12_prop-2-ynal,-5.96,0,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A12,13_(2E)-but-2-enal,-6.21,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A12,14_trans-2-Hexenal,-6.7,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A12,15_heptanal,-6.97,1,15,Medium-chain,heptanal,7.0
-A12,16_octanaldehyde,-7.14,1,16,Medium-chain,octanaldehyde,7.0
-A12,17_nonanal,-7.39,1,17,Medium-chain,nonanal,7.0
-A12,18_decanal,-7.56,1,18,Medium-chain,decanal,7.0
+A11,6_amylaldehyde,-6.22,0,6,Short-chain,amylaldehyde,0.0
+A11,7_glutaraldehyde,-6.39,0,7,Medium-chain,glutaraldehyde,0.0
+A11,8_hexanal,-6.48,0,8,Medium-chain,hexanal,0.0
+A11,9_2-hydroxypropionaldehyde,-5.86,0,9,Short-chain,2-hydroxypropionaldeh…,0.0
+A12,10_4-guanidinobutyraldehyde,-5.94,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A12,11_prop-2-enal,-5.92,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A12,12_prop-2-ynal,-5.96,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A12,13_(2E)-but-2-enal,-6.21,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A12,14_trans-2-Hexenal,-6.7,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A12,15_heptanal,-6.97,0,15,Medium-chain,heptanal,1.0
+A12,16_octanaldehyde,-7.14,1,16,Medium-chain,octanaldehyde,6.0
+A12,17_nonanal,-7.39,1,17,Medium-chain,nonanal,6.0
+A12,18_decanal,-7.56,1,18,Medium-chain,decanal,6.0
 A12,19_dodecanal,-8.08,1,19,Medium-chain,dodecanal,7.0
 A12,20_Citral,-7.57,1,20,"α,β-Unsaturated",Citral,7.0
-A12,21_cis-2-Octenal,-7.27,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A12,22_trans-2-Octenal,-7.29,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A12,21_cis-2-Octenal,-7.27,1,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A12,22_trans-2-Octenal,-7.29,1,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A12,23_4-Hydroxynonenal,-7.31,1,23,"α,β-Unsaturated",4-HNE,7.0
 A12,24_Tetradecanal,-8.58,1,24,Medium-chain,Tetradecanal,7.0
 A12,25_hexadecanal,-9.0,1,25,Medium-chain,hexadecanal,7.0
 A12,26_trans-2-hexadecenal,-8.95,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A12,27_Benzaldehyde,-6.97,1,27,Aromatic,benzald.,6.0
-A12,28_Phenylacetaldehyde,-7.15,1,28,Aromatic,phenylacetald.,7.0
-A12,29_Salicylaldehyde,-6.98,1,29,Aromatic,salicylald.,7.0
+A12,27_Benzaldehyde,-6.97,0,27,Aromatic,benzald.,0.0
+A12,28_Phenylacetaldehyde,-7.15,1,28,Aromatic,phenylacetald.,5.0
+A12,29_Salicylaldehyde,-6.98,0,29,Aromatic,salicylald.,2.0
 A12,2_acetaldehyde,-5.68,0,2,Short-chain,acetaldehyde,0.0
 A12,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.39,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A12,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-10.45,1,31,Retinoid,β-carotene ald.,7.0
 A12,32_9-cis-Retinal,-9.81,1,32,Retinoid,9-cis-retinal,7.0
 A12,34_4-hydroxy-2-nonenal,-7.5,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A12,35_Cinnamaldehyde,-7.54,1,35,Aromatic,cinnamald.,7.0
+A12,35_Cinnamaldehyde,-7.54,1,35,Aromatic,cinnamald.,5.0
 A12,36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.45,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A12,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.61,1,38,Aromatic,DHF-OH-acetald.,7.0
-A12,39_4-nitrobenzaldehyde,-6.68,1,39,Aromatic,4-NO₂-benzald.,7.0
-A12,3_propylaldehyde,-5.92,0,3,Short-chain,propylaldehyde,2.0
+A12,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.61,0,38,Aromatic,DHF-OH-acetald.,0.0
+A12,39_4-nitrobenzaldehyde,-6.68,0,39,Aromatic,4-NO₂-benzald.,0.0
+A12,3_propylaldehyde,-5.92,0,3,Short-chain,propylaldehyde,0.0
 A12,40_Furan-2-carbaldehyde,-7.91,1,40,Aromatic,furan-2-carbald.,7.0
 A12,41_Indole-3-acetaldehyde,-7.62,1,41,Aromatic,indole-3-acetald.,7.0
-A12,42_Glutamate-5-semialdehyde,-6.19,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A12,43_Glutamate-1-semialdehyde,-6.26,1,43,Semialdehyde,Glu-1-semiald.,6.0
-A12,44_glutarate semialdehyde,-6.4,1,44,Semialdehyde,glutarate-semiald.,7.0
-A12,45_adipate semialdehyde,-6.61,1,45,Semialdehyde,adipate-semiald.,7.0
-A12,46_Succinic semialdehyde,-6.19,1,46,Semialdehyde,succinic-semiald.,7.0
-A12,47_methylmalonate semialdehyde,-6.17,1,47,Semialdehyde,MeMal-semiald.,7.0
-A12,48_alpha-aminoadipate semialdehyde,-6.43,1,48,Semialdehyde,α-AASA,7.0
-A12,49_2-Aminomuconic semialdehyde,-6.47,1,49,Semialdehyde,2-AM-semiald.,7.0
-A12,4_malonaldehyde,-5.95,0,4,Short-chain,malonaldehyde,1.0
+A12,42_Glutamate-5-semialdehyde,-6.19,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A12,43_Glutamate-1-semialdehyde,-6.26,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A12,44_glutarate semialdehyde,-6.4,0,44,Semialdehyde,glutarate-semiald.,0.0
+A12,45_adipate semialdehyde,-6.61,0,45,Semialdehyde,adipate-semiald.,0.0
+A12,46_Succinic semialdehyde,-6.19,0,46,Semialdehyde,succinic-semiald.,0.0
+A12,47_methylmalonate semialdehyde,-6.17,0,47,Semialdehyde,MeMal-semiald.,0.0
+A12,48_alpha-aminoadipate semialdehyde,-6.43,0,48,Semialdehyde,α-AASA,0.0
+A12,49_2-Aminomuconic semialdehyde,-6.47,0,49,Semialdehyde,2-AM-semiald.,0.0
+A12,4_malonaldehyde,-5.95,0,4,Short-chain,malonaldehyde,0.0
 A12,50_10-formyltetrahydrofolate,-7.99,1,50,Other,10-formyl-THF,7.0
-A12,52_Triose phosphate,-6.05,1,52,Other,Triose phosphate,7.0
-A12,53_Pyridoxal phosphate,-7.06,1,53,Other,Pyridoxal phosphate,7.0
+A12,52_Triose phosphate,-6.05,0,52,Other,Triose phosphate,0.0
+A12,53_Pyridoxal phosphate,-7.06,1,53,Other,Pyridoxal phosphate,1.0
 A12,57_S-3-oxopropylglutathione,-8.23,1,57,Other,S-3-oxopropyl-GSH,7.0
 A12,58_S-(4-oxobutan-2-yl)glutathione,-8.36,1,58,Other,S-4-oxobutyl-GSH,7.0
-A12,5_butyraldehyde,-6.2,1,5,Short-chain,butyraldehyde,7.0
+A12,5_butyraldehyde,-6.2,0,5,Short-chain,butyraldehyde,0.0
 A12,60_S-Formylglutathione,-7.52,1,60,Other,S-formyl-GSH,7.0
-A12,6_amylaldehyde,-6.46,1,6,Short-chain,amylaldehyde,7.0
-A12,7_glutaraldehyde,-6.39,1,7,Medium-chain,glutaraldehyde,7.0
-A12,8_hexanal,-6.69,1,8,Medium-chain,hexanal,7.0
-A12,9_2-hydroxypropionaldehyde,-5.94,0,9,Short-chain,2-hydroxypropionaldeh…,4.0
-A13,10_4-guanidinobutyraldehyde,-5.56,0,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A13,11_prop-2-enal,-5.99,0,11,"α,β-Unsaturated",prop-2-enal,2.0
-A13,12_prop-2-ynal,-5.96,0,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A13,13_(2E)-but-2-enal,-6.23,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A13,14_trans-2-Hexenal,-6.76,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A13,15_heptanal,-6.98,1,15,Medium-chain,heptanal,7.0
-A13,16_octanaldehyde,-7.15,1,16,Medium-chain,octanaldehyde,7.0
-A13,17_nonanal,-7.42,1,17,Medium-chain,nonanal,7.0
-A13,18_decanal,-7.38,1,18,Medium-chain,decanal,7.0
+A12,6_amylaldehyde,-6.46,0,6,Short-chain,amylaldehyde,0.0
+A12,7_glutaraldehyde,-6.39,0,7,Medium-chain,glutaraldehyde,0.0
+A12,8_hexanal,-6.69,0,8,Medium-chain,hexanal,0.0
+A12,9_2-hydroxypropionaldehyde,-5.94,0,9,Short-chain,2-hydroxypropionaldeh…,0.0
+A13,10_4-guanidinobutyraldehyde,-5.56,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A13,11_prop-2-enal,-5.99,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A13,12_prop-2-ynal,-5.96,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A13,13_(2E)-but-2-enal,-6.23,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A13,14_trans-2-Hexenal,-6.76,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A13,15_heptanal,-6.98,0,15,Medium-chain,heptanal,1.0
+A13,16_octanaldehyde,-7.15,1,16,Medium-chain,octanaldehyde,6.0
+A13,17_nonanal,-7.42,1,17,Medium-chain,nonanal,6.0
+A13,18_decanal,-7.38,1,18,Medium-chain,decanal,6.0
 A13,19_dodecanal,-8.24,1,19,Medium-chain,dodecanal,7.0
 A13,20_Citral,-7.82,1,20,"α,β-Unsaturated",Citral,7.0
-A13,21_cis-2-Octenal,-7.16,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A13,22_trans-2-Octenal,-6.95,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A13,21_cis-2-Octenal,-7.16,1,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A13,22_trans-2-Octenal,-6.95,0,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A13,23_4-Hydroxynonenal,-7.38,1,23,"α,β-Unsaturated",4-HNE,7.0
 A13,24_Tetradecanal,-8.43,1,24,Medium-chain,Tetradecanal,7.0
 A13,25_hexadecanal,-9.06,1,25,Medium-chain,hexadecanal,7.0
 A13,26_trans-2-hexadecenal,-8.8,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A13,27_Benzaldehyde,-6.9,1,27,Aromatic,benzald.,6.0
-A13,28_Phenylacetaldehyde,-7.29,1,28,Aromatic,phenylacetald.,7.0
-A13,29_Salicylaldehyde,-6.96,1,29,Aromatic,salicylald.,7.0
+A13,27_Benzaldehyde,-6.9,0,27,Aromatic,benzald.,0.0
+A13,28_Phenylacetaldehyde,-7.29,1,28,Aromatic,phenylacetald.,5.0
+A13,29_Salicylaldehyde,-6.96,0,29,Aromatic,salicylald.,2.0
 A13,2_acetaldehyde,-5.73,0,2,Short-chain,acetaldehyde,0.0
 A13,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.46,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A13,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.67,1,31,Retinoid,β-carotene ald.,7.0
 A13,32_9-cis-Retinal,-9.66,1,32,Retinoid,9-cis-retinal,7.0
 A13,34_4-hydroxy-2-nonenal,-7.4,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A13,35_Cinnamaldehyde,-7.38,1,35,Aromatic,cinnamald.,7.0
+A13,35_Cinnamaldehyde,-7.38,1,35,Aromatic,cinnamald.,5.0
 A13,36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.26,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A13,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.59,1,38,Aromatic,DHF-OH-acetald.,7.0
-A13,39_4-nitrobenzaldehyde,-6.72,1,39,Aromatic,4-NO₂-benzald.,7.0
-A13,3_propylaldehyde,-5.96,0,3,Short-chain,propylaldehyde,2.0
+A13,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.59,0,38,Aromatic,DHF-OH-acetald.,0.0
+A13,39_4-nitrobenzaldehyde,-6.72,0,39,Aromatic,4-NO₂-benzald.,0.0
+A13,3_propylaldehyde,-5.96,0,3,Short-chain,propylaldehyde,0.0
 A13,40_Furan-2-carbaldehyde,-7.88,1,40,Aromatic,furan-2-carbald.,7.0
 A13,41_Indole-3-acetaldehyde,-7.49,1,41,Aromatic,indole-3-acetald.,7.0
-A13,42_Glutamate-5-semialdehyde,-6.24,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A13,43_Glutamate-1-semialdehyde,-6.21,1,43,Semialdehyde,Glu-1-semiald.,6.0
-A13,44_glutarate semialdehyde,-6.46,1,44,Semialdehyde,glutarate-semiald.,7.0
-A13,45_adipate semialdehyde,-6.64,1,45,Semialdehyde,adipate-semiald.,7.0
-A13,46_Succinic semialdehyde,-6.2,1,46,Semialdehyde,succinic-semiald.,7.0
-A13,47_methylmalonate semialdehyde,-6.25,1,47,Semialdehyde,MeMal-semiald.,7.0
-A13,48_alpha-aminoadipate semialdehyde,-6.54,1,48,Semialdehyde,α-AASA,7.0
-A13,49_2-Aminomuconic semialdehyde,-6.31,1,49,Semialdehyde,2-AM-semiald.,7.0
-A13,4_malonaldehyde,-5.96,0,4,Short-chain,malonaldehyde,1.0
+A13,42_Glutamate-5-semialdehyde,-6.24,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A13,43_Glutamate-1-semialdehyde,-6.21,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A13,44_glutarate semialdehyde,-6.46,0,44,Semialdehyde,glutarate-semiald.,0.0
+A13,45_adipate semialdehyde,-6.64,0,45,Semialdehyde,adipate-semiald.,0.0
+A13,46_Succinic semialdehyde,-6.2,0,46,Semialdehyde,succinic-semiald.,0.0
+A13,47_methylmalonate semialdehyde,-6.25,0,47,Semialdehyde,MeMal-semiald.,0.0
+A13,48_alpha-aminoadipate semialdehyde,-6.54,0,48,Semialdehyde,α-AASA,0.0
+A13,49_2-Aminomuconic semialdehyde,-6.31,0,49,Semialdehyde,2-AM-semiald.,0.0
+A13,4_malonaldehyde,-5.96,0,4,Short-chain,malonaldehyde,0.0
 A13,50_10-formyltetrahydrofolate,-7.29,1,50,Other,10-formyl-THF,7.0
-A13,52_Triose phosphate,-6.12,1,52,Other,Triose phosphate,7.0
-A13,53_Pyridoxal phosphate,-6.96,1,53,Other,Pyridoxal phosphate,7.0
+A13,52_Triose phosphate,-6.12,0,52,Other,Triose phosphate,0.0
+A13,53_Pyridoxal phosphate,-6.96,0,53,Other,Pyridoxal phosphate,1.0
 A13,57_S-3-oxopropylglutathione,-7.78,1,57,Other,S-3-oxopropyl-GSH,7.0
 A13,58_S-(4-oxobutan-2-yl)glutathione,-7.76,1,58,Other,S-4-oxobutyl-GSH,7.0
-A13,5_butyraldehyde,-6.28,1,5,Short-chain,butyraldehyde,7.0
+A13,5_butyraldehyde,-6.28,0,5,Short-chain,butyraldehyde,0.0
 A13,60_S-Formylglutathione,-7.09,1,60,Other,S-formyl-GSH,7.0
-A13,6_amylaldehyde,-6.49,1,6,Short-chain,amylaldehyde,7.0
-A13,7_glutaraldehyde,-6.46,1,7,Medium-chain,glutaraldehyde,7.0
-A13,8_hexanal,-6.75,1,8,Medium-chain,hexanal,7.0
-A13,9_2-hydroxypropionaldehyde,-6.02,1,9,Short-chain,2-hydroxypropionaldeh…,4.0
-A14,10_4-guanidinobutyraldehyde,-6.1,1,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A14,11_prop-2-enal,-6.09,1,11,"α,β-Unsaturated",prop-2-enal,2.0
-A14,12_prop-2-ynal,-6.06,1,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A14,13_(2E)-but-2-enal,-6.33,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A14,14_trans-2-Hexenal,-6.56,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A14,15_heptanal,-7.03,1,15,Medium-chain,heptanal,7.0
-A14,16_octanaldehyde,-7.44,1,16,Medium-chain,octanaldehyde,7.0
-A14,17_nonanal,-7.07,1,17,Medium-chain,nonanal,7.0
-A14,18_decanal,-7.5,1,18,Medium-chain,decanal,7.0
+A13,6_amylaldehyde,-6.49,0,6,Short-chain,amylaldehyde,0.0
+A13,7_glutaraldehyde,-6.46,0,7,Medium-chain,glutaraldehyde,0.0
+A13,8_hexanal,-6.75,0,8,Medium-chain,hexanal,0.0
+A13,9_2-hydroxypropionaldehyde,-6.02,0,9,Short-chain,2-hydroxypropionaldeh…,0.0
+A14,10_4-guanidinobutyraldehyde,-6.1,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A14,11_prop-2-enal,-6.09,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A14,12_prop-2-ynal,-6.06,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A14,13_(2E)-but-2-enal,-6.33,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A14,14_trans-2-Hexenal,-6.56,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A14,15_heptanal,-7.03,1,15,Medium-chain,heptanal,1.0
+A14,16_octanaldehyde,-7.44,1,16,Medium-chain,octanaldehyde,6.0
+A14,17_nonanal,-7.07,1,17,Medium-chain,nonanal,6.0
+A14,18_decanal,-7.5,1,18,Medium-chain,decanal,6.0
 A14,19_dodecanal,-7.69,1,19,Medium-chain,dodecanal,7.0
 A14,20_Citral,-8.04,1,20,"α,β-Unsaturated",Citral,7.0
-A14,21_cis-2-Octenal,-7.46,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A14,22_trans-2-Octenal,-7.09,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A14,21_cis-2-Octenal,-7.46,1,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A14,22_trans-2-Octenal,-7.09,1,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A14,23_4-Hydroxynonenal,-7.06,1,23,"α,β-Unsaturated",4-HNE,7.0
 A14,24_Tetradecanal,-7.88,1,24,Medium-chain,Tetradecanal,7.0
 A14,25_hexadecanal,-8.47,1,25,Medium-chain,hexadecanal,7.0
 A14,26_trans-2-hexadecenal,-8.55,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A14,27_Benzaldehyde,-5.89,0,27,Aromatic,benzald.,6.0
-A14,28_Phenylacetaldehyde,-7.33,1,28,Aromatic,phenylacetald.,7.0
-A14,29_Salicylaldehyde,-7.18,1,29,Aromatic,salicylald.,7.0
+A14,27_Benzaldehyde,-5.89,0,27,Aromatic,benzald.,0.0
+A14,28_Phenylacetaldehyde,-7.33,1,28,Aromatic,phenylacetald.,5.0
+A14,29_Salicylaldehyde,-7.18,1,29,Aromatic,salicylald.,2.0
 A14,2_acetaldehyde,-5.63,0,2,Short-chain,acetaldehyde,0.0
 A14,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.64,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A14,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.33,1,31,Retinoid,β-carotene ald.,7.0
 A14,32_9-cis-Retinal,-8.82,1,32,Retinoid,9-cis-retinal,7.0
 A14,34_4-hydroxy-2-nonenal,-7.28,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A14,35_Cinnamaldehyde,-7.04,1,35,Aromatic,cinnamald.,7.0
+A14,35_Cinnamaldehyde,-7.04,1,35,Aromatic,cinnamald.,5.0
 A14,36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.04,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A14,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.68,1,38,Aromatic,DHF-OH-acetald.,7.0
-A14,39_4-nitrobenzaldehyde,-6.69,1,39,Aromatic,4-NO₂-benzald.,7.0
-A14,3_propylaldehyde,-6.07,1,3,Short-chain,propylaldehyde,2.0
+A14,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.68,0,38,Aromatic,DHF-OH-acetald.,0.0
+A14,39_4-nitrobenzaldehyde,-6.69,0,39,Aromatic,4-NO₂-benzald.,0.0
+A14,3_propylaldehyde,-6.07,0,3,Short-chain,propylaldehyde,0.0
 A14,40_Furan-2-carbaldehyde,-7.69,1,40,Aromatic,furan-2-carbald.,7.0
 A14,41_Indole-3-acetaldehyde,-7.13,1,41,Aromatic,indole-3-acetald.,7.0
-A14,42_Glutamate-5-semialdehyde,-6.07,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A14,43_Glutamate-1-semialdehyde,-6.19,1,43,Semialdehyde,Glu-1-semiald.,6.0
-A14,44_glutarate semialdehyde,-6.39,1,44,Semialdehyde,glutarate-semiald.,7.0
-A14,45_adipate semialdehyde,-6.64,1,45,Semialdehyde,adipate-semiald.,7.0
-A14,46_Succinic semialdehyde,-6.16,1,46,Semialdehyde,succinic-semiald.,7.0
-A14,47_methylmalonate semialdehyde,-6.3,1,47,Semialdehyde,MeMal-semiald.,7.0
-A14,48_alpha-aminoadipate semialdehyde,-6.3,1,48,Semialdehyde,α-AASA,7.0
-A14,49_2-Aminomuconic semialdehyde,-6.59,1,49,Semialdehyde,2-AM-semiald.,7.0
-A14,4_malonaldehyde,-6.09,1,4,Short-chain,malonaldehyde,1.0
+A14,42_Glutamate-5-semialdehyde,-6.07,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A14,43_Glutamate-1-semialdehyde,-6.19,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A14,44_glutarate semialdehyde,-6.39,0,44,Semialdehyde,glutarate-semiald.,0.0
+A14,45_adipate semialdehyde,-6.64,0,45,Semialdehyde,adipate-semiald.,0.0
+A14,46_Succinic semialdehyde,-6.16,0,46,Semialdehyde,succinic-semiald.,0.0
+A14,47_methylmalonate semialdehyde,-6.3,0,47,Semialdehyde,MeMal-semiald.,0.0
+A14,48_alpha-aminoadipate semialdehyde,-6.3,0,48,Semialdehyde,α-AASA,0.0
+A14,49_2-Aminomuconic semialdehyde,-6.59,0,49,Semialdehyde,2-AM-semiald.,0.0
+A14,4_malonaldehyde,-6.09,0,4,Short-chain,malonaldehyde,0.0
 A14,50_10-formyltetrahydrofolate,-7.29,1,50,Other,10-formyl-THF,7.0
-A14,52_Triose phosphate,-6.31,1,52,Other,Triose phosphate,7.0
-A14,53_Pyridoxal phosphate,-6.89,1,53,Other,Pyridoxal phosphate,7.0
+A14,52_Triose phosphate,-6.31,0,52,Other,Triose phosphate,0.0
+A14,53_Pyridoxal phosphate,-6.89,0,53,Other,Pyridoxal phosphate,1.0
 A14,57_S-3-oxopropylglutathione,-7.57,1,57,Other,S-3-oxopropyl-GSH,7.0
 A14,58_S-(4-oxobutan-2-yl)glutathione,-7.5,1,58,Other,S-4-oxobutyl-GSH,7.0
-A14,5_butyraldehyde,-6.39,1,5,Short-chain,butyraldehyde,7.0
+A14,5_butyraldehyde,-6.39,0,5,Short-chain,butyraldehyde,0.0
 A14,60_S-Formylglutathione,-7.08,1,60,Other,S-formyl-GSH,7.0
-A14,6_amylaldehyde,-6.63,1,6,Short-chain,amylaldehyde,7.0
-A14,7_glutaraldehyde,-6.36,1,7,Medium-chain,glutaraldehyde,7.0
-A14,8_hexanal,-6.6,1,8,Medium-chain,hexanal,7.0
-A14,9_2-hydroxypropionaldehyde,-6.04,1,9,Short-chain,2-hydroxypropionaldeh…,4.0
-A8,10_4-guanidinobutyraldehyde,-5.92,0,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A8,11_prop-2-enal,-6.0,1,11,"α,β-Unsaturated",prop-2-enal,2.0
-A8,12_prop-2-ynal,-5.99,0,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A8,13_(2E)-but-2-enal,-6.27,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A8,14_trans-2-Hexenal,-6.79,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A8,15_heptanal,-6.98,1,15,Medium-chain,heptanal,7.0
-A8,16_octanaldehyde,-7.2,1,16,Medium-chain,octanaldehyde,7.0
-A8,17_nonanal,-7.5,1,17,Medium-chain,nonanal,7.0
-A8,18_decanal,-7.74,1,18,Medium-chain,decanal,7.0
+A14,6_amylaldehyde,-6.63,0,6,Short-chain,amylaldehyde,0.0
+A14,7_glutaraldehyde,-6.36,0,7,Medium-chain,glutaraldehyde,0.0
+A14,8_hexanal,-6.6,0,8,Medium-chain,hexanal,0.0
+A14,9_2-hydroxypropionaldehyde,-6.04,0,9,Short-chain,2-hydroxypropionaldeh…,0.0
+A8,10_4-guanidinobutyraldehyde,-5.92,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A8,11_prop-2-enal,-6.0,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A8,12_prop-2-ynal,-5.99,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A8,13_(2E)-but-2-enal,-6.27,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A8,14_trans-2-Hexenal,-6.79,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A8,15_heptanal,-6.98,0,15,Medium-chain,heptanal,1.0
+A8,16_octanaldehyde,-7.2,1,16,Medium-chain,octanaldehyde,6.0
+A8,17_nonanal,-7.5,1,17,Medium-chain,nonanal,6.0
+A8,18_decanal,-7.74,1,18,Medium-chain,decanal,6.0
 A8,19_dodecanal,-8.27,1,19,Medium-chain,dodecanal,7.0
 A8,20_Citral,-7.77,1,20,"α,β-Unsaturated",Citral,7.0
-A8,21_cis-2-Octenal,-7.23,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A8,22_trans-2-Octenal,-7.23,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A8,21_cis-2-Octenal,-7.23,1,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A8,22_trans-2-Octenal,-7.23,1,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A8,23_4-Hydroxynonenal,-7.49,1,23,"α,β-Unsaturated",4-HNE,7.0
 A8,24_Tetradecanal,-8.27,1,24,Medium-chain,Tetradecanal,7.0
 A8,25_hexadecanal,-8.77,1,25,Medium-chain,hexadecanal,7.0
 A8,26_trans-2-hexadecenal,-8.78,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A8,27_Benzaldehyde,-6.95,1,27,Aromatic,benzald.,6.0
-A8,28_Phenylacetaldehyde,-7.2,1,28,Aromatic,phenylacetald.,7.0
-A8,29_Salicylaldehyde,-7.0,1,29,Aromatic,salicylald.,7.0
+A8,27_Benzaldehyde,-6.95,0,27,Aromatic,benzald.,0.0
+A8,28_Phenylacetaldehyde,-7.2,1,28,Aromatic,phenylacetald.,5.0
+A8,29_Salicylaldehyde,-7.0,1,29,Aromatic,salicylald.,2.0
 A8,2_acetaldehyde,-5.73,0,2,Short-chain,acetaldehyde,0.0
 A8,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.54,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A8,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.62,1,31,Retinoid,β-carotene ald.,7.0
 A8,32_9-cis-Retinal,-9.43,1,32,Retinoid,9-cis-retinal,7.0
 A8,34_4-hydroxy-2-nonenal,-7.44,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A8,35_Cinnamaldehyde,-7.51,1,35,Aromatic,cinnamald.,7.0
+A8,35_Cinnamaldehyde,-7.51,1,35,Aromatic,cinnamald.,5.0
 A8,36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.58,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A8,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.64,1,38,Aromatic,DHF-OH-acetald.,7.0
-A8,39_4-nitrobenzaldehyde,-6.69,1,39,Aromatic,4-NO₂-benzald.,7.0
-A8,3_propylaldehyde,-6.0,1,3,Short-chain,propylaldehyde,2.0
+A8,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.64,0,38,Aromatic,DHF-OH-acetald.,0.0
+A8,39_4-nitrobenzaldehyde,-6.69,0,39,Aromatic,4-NO₂-benzald.,0.0
+A8,3_propylaldehyde,-6.0,0,3,Short-chain,propylaldehyde,0.0
 A8,40_Furan-2-carbaldehyde,-7.95,1,40,Aromatic,furan-2-carbald.,7.0
 A8,41_Indole-3-acetaldehyde,-7.78,1,41,Aromatic,indole-3-acetald.,7.0
-A8,42_Glutamate-5-semialdehyde,-6.26,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A8,43_Glutamate-1-semialdehyde,-6.08,1,43,Semialdehyde,Glu-1-semiald.,6.0
-A8,44_glutarate semialdehyde,-6.51,1,44,Semialdehyde,glutarate-semiald.,7.0
-A8,45_adipate semialdehyde,-6.75,1,45,Semialdehyde,adipate-semiald.,7.0
-A8,46_Succinic semialdehyde,-6.2,1,46,Semialdehyde,succinic-semiald.,7.0
-A8,47_methylmalonate semialdehyde,-6.23,1,47,Semialdehyde,MeMal-semiald.,7.0
-A8,48_alpha-aminoadipate semialdehyde,-6.53,1,48,Semialdehyde,α-AASA,7.0
-A8,49_2-Aminomuconic semialdehyde,-6.52,1,49,Semialdehyde,2-AM-semiald.,7.0
-A8,4_malonaldehyde,-5.99,0,4,Short-chain,malonaldehyde,1.0
+A8,42_Glutamate-5-semialdehyde,-6.26,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A8,43_Glutamate-1-semialdehyde,-6.08,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A8,44_glutarate semialdehyde,-6.51,0,44,Semialdehyde,glutarate-semiald.,0.0
+A8,45_adipate semialdehyde,-6.75,0,45,Semialdehyde,adipate-semiald.,0.0
+A8,46_Succinic semialdehyde,-6.2,0,46,Semialdehyde,succinic-semiald.,0.0
+A8,47_methylmalonate semialdehyde,-6.23,0,47,Semialdehyde,MeMal-semiald.,0.0
+A8,48_alpha-aminoadipate semialdehyde,-6.53,0,48,Semialdehyde,α-AASA,0.0
+A8,49_2-Aminomuconic semialdehyde,-6.52,0,49,Semialdehyde,2-AM-semiald.,0.0
+A8,4_malonaldehyde,-5.99,0,4,Short-chain,malonaldehyde,0.0
 A8,50_10-formyltetrahydrofolate,-7.69,1,50,Other,10-formyl-THF,7.0
-A8,52_Triose phosphate,-6.07,1,52,Other,Triose phosphate,7.0
-A8,53_Pyridoxal phosphate,-6.65,1,53,Other,Pyridoxal phosphate,7.0
+A8,52_Triose phosphate,-6.07,0,52,Other,Triose phosphate,0.0
+A8,53_Pyridoxal phosphate,-6.65,0,53,Other,Pyridoxal phosphate,1.0
 A8,57_S-3-oxopropylglutathione,-7.22,1,57,Other,S-3-oxopropyl-GSH,7.0
 A8,58_S-(4-oxobutan-2-yl)glutathione,-8.42,1,58,Other,S-4-oxobutyl-GSH,7.0
-A8,5_butyraldehyde,-6.24,1,5,Short-chain,butyraldehyde,7.0
+A8,5_butyraldehyde,-6.24,0,5,Short-chain,butyraldehyde,0.0
 A8,60_S-Formylglutathione,-7.44,1,60,Other,S-formyl-GSH,7.0
-A8,6_amylaldehyde,-6.47,1,6,Short-chain,amylaldehyde,7.0
-A8,7_glutaraldehyde,-6.48,1,7,Medium-chain,glutaraldehyde,7.0
-A8,8_hexanal,-6.77,1,8,Medium-chain,hexanal,7.0
-A8,9_2-hydroxypropionaldehyde,-6.03,1,9,Short-chain,2-hydroxypropionaldeh…,4.0
-A9,10_4-guanidinobutyraldehyde,-5.98,0,10,Semialdehyde,γ-guanidinobutyr-ald.,2.0
-A9,11_prop-2-enal,-5.93,0,11,"α,β-Unsaturated",prop-2-enal,2.0
-A9,12_prop-2-ynal,-5.91,0,12,"α,β-Unsaturated",prop-2-ynal,1.0
-A9,13_(2E)-but-2-enal,-6.14,1,13,"α,β-Unsaturated",(2E)-but-2-enal,7.0
-A9,14_trans-2-Hexenal,-6.63,1,14,"α,β-Unsaturated",trans-2-Hexenal,7.0
-A9,15_heptanal,-6.91,1,15,Medium-chain,heptanal,7.0
-A9,16_octanaldehyde,-7.13,1,16,Medium-chain,octanaldehyde,7.0
-A9,17_nonanal,-7.4,1,17,Medium-chain,nonanal,7.0
-A9,18_decanal,-7.64,1,18,Medium-chain,decanal,7.0
+A8,6_amylaldehyde,-6.47,0,6,Short-chain,amylaldehyde,0.0
+A8,7_glutaraldehyde,-6.48,0,7,Medium-chain,glutaraldehyde,0.0
+A8,8_hexanal,-6.77,0,8,Medium-chain,hexanal,0.0
+A8,9_2-hydroxypropionaldehyde,-6.03,0,9,Short-chain,2-hydroxypropionaldeh…,0.0
+A9,10_4-guanidinobutyraldehyde,-5.98,0,10,Semialdehyde,γ-guanidinobutyr-ald.,0.0
+A9,11_prop-2-enal,-5.93,0,11,"α,β-Unsaturated",prop-2-enal,0.0
+A9,12_prop-2-ynal,-5.91,0,12,"α,β-Unsaturated",prop-2-ynal,0.0
+A9,13_(2E)-but-2-enal,-6.14,0,13,"α,β-Unsaturated",(2E)-but-2-enal,0.0
+A9,14_trans-2-Hexenal,-6.63,0,14,"α,β-Unsaturated",trans-2-Hexenal,0.0
+A9,15_heptanal,-6.91,0,15,Medium-chain,heptanal,1.0
+A9,16_octanaldehyde,-7.13,1,16,Medium-chain,octanaldehyde,6.0
+A9,17_nonanal,-7.4,1,17,Medium-chain,nonanal,6.0
+A9,18_decanal,-7.64,1,18,Medium-chain,decanal,6.0
 A9,19_dodecanal,-8.06,1,19,Medium-chain,dodecanal,7.0
 A9,20_Citral,-7.65,1,20,"α,β-Unsaturated",Citral,7.0
-A9,21_cis-2-Octenal,-7.11,1,21,"α,β-Unsaturated",cis-2-Octenal,7.0
-A9,22_trans-2-Octenal,-7.16,1,22,"α,β-Unsaturated",trans-2-Octenal,7.0
+A9,21_cis-2-Octenal,-7.11,1,21,"α,β-Unsaturated",cis-2-Octenal,6.0
+A9,22_trans-2-Octenal,-7.16,1,22,"α,β-Unsaturated",trans-2-Octenal,5.0
 A9,23_4-Hydroxynonenal,-7.37,1,23,"α,β-Unsaturated",4-HNE,7.0
 A9,24_Tetradecanal,-8.35,1,24,Medium-chain,Tetradecanal,7.0
 A9,25_hexadecanal,-8.6,1,25,Medium-chain,hexadecanal,7.0
 A9,26_trans-2-hexadecenal,-8.44,1,26,"α,β-Unsaturated",t-2-hexadecenal,7.0
-A9,27_Benzaldehyde,-6.89,1,27,Aromatic,benzald.,6.0
-A9,28_Phenylacetaldehyde,-7.16,1,28,Aromatic,phenylacetald.,7.0
-A9,29_Salicylaldehyde,-6.88,1,29,Aromatic,salicylald.,7.0
+A9,27_Benzaldehyde,-6.89,0,27,Aromatic,benzald.,0.0
+A9,28_Phenylacetaldehyde,-7.16,1,28,Aromatic,phenylacetald.,5.0
+A9,29_Salicylaldehyde,-6.88,0,29,Aromatic,salicylald.,2.0
 A9,2_acetaldehyde,-5.68,0,2,Short-chain,acetaldehyde,0.0
 A9,"30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-7.44,1,30,Aromatic,"3,4-(OH)₂-cinnamald.",7.0
 A9,"31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-9.35,1,31,Retinoid,β-carotene ald.,7.0
 A9,32_9-cis-Retinal,-9.37,1,32,Retinoid,9-cis-retinal,7.0
 A9,34_4-hydroxy-2-nonenal,-7.35,1,34,"α,β-Unsaturated",4-OH-2-nonenal,7.0
-A9,35_Cinnamaldehyde,-7.42,1,35,Aromatic,cinnamald.,7.0
+A9,35_Cinnamaldehyde,-7.42,1,35,Aromatic,cinnamald.,5.0
 A9,36_3-(4-Isopropylphenyl)-2-methylpropanal,-8.32,1,36,Aromatic,iPr-Ph methylpropanal,7.0
-A9,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.69,1,38,Aromatic,DHF-OH-acetald.,7.0
-A9,39_4-nitrobenzaldehyde,-6.63,1,39,Aromatic,4-NO₂-benzald.,7.0
-A9,3_propylaldehyde,-5.93,0,3,Short-chain,propylaldehyde,2.0
+A9,"38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-6.69,0,38,Aromatic,DHF-OH-acetald.,0.0
+A9,39_4-nitrobenzaldehyde,-6.63,0,39,Aromatic,4-NO₂-benzald.,0.0
+A9,3_propylaldehyde,-5.93,0,3,Short-chain,propylaldehyde,0.0
 A9,40_Furan-2-carbaldehyde,-7.97,1,40,Aromatic,furan-2-carbald.,7.0
 A9,41_Indole-3-acetaldehyde,-7.59,1,41,Aromatic,indole-3-acetald.,7.0
-A9,42_Glutamate-5-semialdehyde,-6.34,1,42,Semialdehyde,Glu-5-semiald.,7.0
-A9,43_Glutamate-1-semialdehyde,-6.25,1,43,Semialdehyde,Glu-1-semiald.,6.0
-A9,44_glutarate semialdehyde,-6.43,1,44,Semialdehyde,glutarate-semiald.,7.0
-A9,45_adipate semialdehyde,-6.66,1,45,Semialdehyde,adipate-semiald.,7.0
-A9,46_Succinic semialdehyde,-6.21,1,46,Semialdehyde,succinic-semiald.,7.0
-A9,47_methylmalonate semialdehyde,-6.17,1,47,Semialdehyde,MeMal-semiald.,7.0
-A9,48_alpha-aminoadipate semialdehyde,-6.55,1,48,Semialdehyde,α-AASA,7.0
-A9,49_2-Aminomuconic semialdehyde,-6.46,1,49,Semialdehyde,2-AM-semiald.,7.0
-A9,4_malonaldehyde,-5.9,0,4,Short-chain,malonaldehyde,1.0
+A9,42_Glutamate-5-semialdehyde,-6.34,0,42,Semialdehyde,Glu-5-semiald.,0.0
+A9,43_Glutamate-1-semialdehyde,-6.25,0,43,Semialdehyde,Glu-1-semiald.,0.0
+A9,44_glutarate semialdehyde,-6.43,0,44,Semialdehyde,glutarate-semiald.,0.0
+A9,45_adipate semialdehyde,-6.66,0,45,Semialdehyde,adipate-semiald.,0.0
+A9,46_Succinic semialdehyde,-6.21,0,46,Semialdehyde,succinic-semiald.,0.0
+A9,47_methylmalonate semialdehyde,-6.17,0,47,Semialdehyde,MeMal-semiald.,0.0
+A9,48_alpha-aminoadipate semialdehyde,-6.55,0,48,Semialdehyde,α-AASA,0.0
+A9,49_2-Aminomuconic semialdehyde,-6.46,0,49,Semialdehyde,2-AM-semiald.,0.0
+A9,4_malonaldehyde,-5.9,0,4,Short-chain,malonaldehyde,0.0
 A9,50_10-formyltetrahydrofolate,-8.05,1,50,Other,10-formyl-THF,7.0
-A9,52_Triose phosphate,-6.11,1,52,Other,Triose phosphate,7.0
-A9,53_Pyridoxal phosphate,-6.82,1,53,Other,Pyridoxal phosphate,7.0
+A9,52_Triose phosphate,-6.11,0,52,Other,Triose phosphate,0.0
+A9,53_Pyridoxal phosphate,-6.82,0,53,Other,Pyridoxal phosphate,1.0
 A9,57_S-3-oxopropylglutathione,-8.19,1,57,Other,S-3-oxopropyl-GSH,7.0
 A9,58_S-(4-oxobutan-2-yl)glutathione,-8.21,1,58,Other,S-4-oxobutyl-GSH,7.0
-A9,5_butyraldehyde,-6.2,1,5,Short-chain,butyraldehyde,7.0
+A9,5_butyraldehyde,-6.2,0,5,Short-chain,butyraldehyde,0.0
 A9,60_S-Formylglutathione,-7.58,1,60,Other,S-formyl-GSH,7.0
-A9,6_amylaldehyde,-6.4,1,6,Short-chain,amylaldehyde,7.0
-A9,7_glutaraldehyde,-6.4,1,7,Medium-chain,glutaraldehyde,7.0
-A9,8_hexanal,-6.65,1,8,Medium-chain,hexanal,7.0
-A9,9_2-hydroxypropionaldehyde,-5.94,0,9,Short-chain,2-hydroxypropionaldeh…,4.0
+A9,6_amylaldehyde,-6.4,0,6,Short-chain,amylaldehyde,0.0
+A9,7_glutaraldehyde,-6.4,0,7,Medium-chain,glutaraldehyde,0.0
+A9,8_hexanal,-6.65,0,8,Medium-chain,hexanal,0.0
+A9,9_2-hydroxypropionaldehyde,-5.94,0,9,Short-chain,2-hydroxypropionaldeh…,0.0

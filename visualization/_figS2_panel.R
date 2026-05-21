@@ -16,10 +16,8 @@ render_figS2_panel <- function(prot, panel_label, save_name) {
   sub$category <- factor(sub$category, levels = CAT_ORDER)
   sub$bar_col  <- CAT_COLORS[as.character(sub$category)]
 
-  n_p     <- sum(sub$is_productive, na.rm = TRUE)
   med_dg  <- median(sub$DG, na.rm = TRUE)
-  title   <- sprintf("%s — %d/%d productive  (median ΔG = %.2f)",
-                     prot, n_p, nrow(sub), med_dg)
+  title   <- sprintf("%s  (median ΔG = %.2f)", prot, med_dg)
 
   top3 <- head(sub, 3)
   stars <- sub[which(sub$is_productive), ]

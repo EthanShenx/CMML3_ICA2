@@ -249,7 +249,7 @@ def export_fig1f():
 
 # 1g — pan-ALDH binding (legacy bar input + new substrate × isoform matrix)
 def export_fig1g():
-    thr = -6.0
+    thr = -7.0
     sel = (df_ald[df_ald.DG_prediction_kcalmol <= thr]
            .groupby("ligand")["protein"].nunique().reset_index())
     sel.columns = ["ligand", "n_prots"]
@@ -261,13 +261,13 @@ def export_fig1g():
     sel.to_csv(OUT / "fig1g_pan_aldh.csv", index=False)
 
     # Substrate × isoform binding matrix for the dot-matrix viz: one row per
-    # (protein, ligand) with is_strong = DG <= -6.
+    # (protein, ligand) with is_strong = DG <= -7.
     mat = df_ald[["protein", "ligand", "DG_prediction_kcalmol"]].copy()
     mat["is_strong"] = (mat["DG_prediction_kcalmol"] <= thr).astype(int)
     mat["lig_num"]   = mat["ligand"].str.split("_", n=1).str[0].astype(int)
     mat["category"]  = mat["ligand"].map(CATEGORY_MAP).fillna("Other")
     mat["short_name"] = mat["ligand"].apply(short_name)
-    # Attach the per-ligand promiscuity score (n isoforms with DG <= -6)
+    # Attach the per-ligand promiscuity score (n isoforms with DG <= -7)
     mat = mat.merge(sel[["ligand", "n_prots"]], on="ligand", how="left")
     mat.rename(columns={"DG_prediction_kcalmol": "DG"}, inplace=True)
     mat.to_csv(OUT / "fig1g_matrix.csv", index=False)
@@ -555,7 +555,7 @@ def export_figS3d():
             if len(sub) == 0:
                 frac = 0.0
             else:
-                frac = (sub.DG_prediction_kcalmol <= -6.0).sum() / len(sub)
+                frac = (sub.DG_prediction_kcalmol <= -7.0).sum() / len(sub)
             rows.append({"protein": prot, "category": cat, "frac": frac})
     pd.DataFrame(rows).to_csv(OUT / "figS3d_radar.csv", index=False)
 

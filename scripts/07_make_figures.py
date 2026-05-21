@@ -412,7 +412,7 @@ def make_fig1():
     lbl(ax_f, "(f)")
 
     # ── Panel g: substrate selectivity bar ──
-    thr = -6.0
+    thr = -7.0
     sel = (df_ald[df_ald.DG_prediction_kcalmol <= thr]
            .groupby("ligand")["protein"].nunique().reset_index())
     sel.columns = ["ligand", "n_prots"]
@@ -425,9 +425,9 @@ def make_fig1():
     ax_g.bar(range(len(sel)), sel["n_prots"], color=colors_g, width=0.8, linewidth=0)
     ax_g.axhline(4, ls="--", color="grey", lw=0.8, alpha=0.7)
     ax_g.set_xticks([])
-    ax_g.set_ylabel("No. of isoforms\nbinding ≤ −6 kcal mol$^{-1}$", fontsize=7.5)
+    ax_g.set_ylabel("No. of isoforms\nbinding ≤ −7 kcal mol$^{-1}$", fontsize=7.5)
     ax_g.set_xlabel("Substrate (sorted by ID)", fontsize=7.5)
-    ax_g.set_title("Pan-ALDH binding at ΔG ≤ −6 kcal mol$^{-1}$", fontsize=8, pad=4)
+    ax_g.set_title("Pan-ALDH binding at ΔG ≤ −7 kcal mol$^{-1}$", fontsize=8, pad=4)
     for i, row in sel[sel["n_prots"] >= 4].iterrows():
         idx = sel.index.get_loc(i)
         ax_g.text(idx, row.n_prots + 0.05, row["ligand"].split("_")[0],
@@ -819,10 +819,8 @@ def make_figS2():
         ax.set_yticks([])
         ax.set_xlabel("ΔG (kcal mol$^{-1}$)", fontsize=13)
         ax.tick_params(axis="x", labelsize=11)
-        n_p = (sub["CYS_SG_to_aldC_distance_A"] <= 4.0).sum()
         ax.set_title(
-            f"{prot} — {n_p}/{len(sub)} productive  "
-            f"(median ΔG = {sub.DG_prediction_kcalmol.median():.2f})",
+            f"{prot}  (median ΔG = {sub.DG_prediction_kcalmol.median():.2f})",
             fontsize=13, pad=6, color=PROT_COLORS[prot],
         )
         lbl_si(ax, "abcdefg"[idx])
@@ -973,7 +971,7 @@ def make_figS3():
             if len(sub_r) == 0:
                 vals.append(0)
             else:
-                vals.append((sub_r.DG_prediction_kcalmol <= -6.0).sum() / len(sub_r))
+                vals.append((sub_r.DG_prediction_kcalmol <= -7.0).sum() / len(sub_r))
         vals += vals[:1]
         ax_d.plot(angles, vals, color=PROT_COLORS[prot], lw=1.5, label=prot, alpha=0.85)
         ax_d.fill(angles, vals, color=PROT_COLORS[prot], alpha=0.08)
@@ -982,7 +980,7 @@ def make_figS3():
     ax_d.set_xticklabels(cats_r, size=11)
     ax_d.set_yticks([0.25, 0.5, 0.75, 1.0])
     ax_d.set_yticklabels(["25%", "50%", "75%", "100%"], size=10)
-    ax_d.set_title("Selectivity profile (fraction with ΔG ≤ −6 kcal mol⁻¹)",
+    ax_d.set_title("Selectivity profile (fraction with ΔG ≤ −7 kcal mol⁻¹)",
                    fontsize=13, pad=34)
     ax_d.legend(loc="center left", bbox_to_anchor=(1.18, 0.5),
                 fontsize=10, framealpha=0.85)
