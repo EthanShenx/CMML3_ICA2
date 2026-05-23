@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">CMML3 ICA2: Systematic Blind Docking of Human ALDH Isoforms × Aldehyde Substrates</h1>
+<h1 align="center">CMML3 ICA2: Systematic Blind Docking of Human ALDH Isoforms</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python badge">
