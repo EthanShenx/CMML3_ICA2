@@ -16,6 +16,12 @@
 
 ---
 
+<p align="center">
+The last commit of this repository is on 23 May, as I applied for a 4-day extension (deadline after extension: 26th May).
+</p>
+
+---
+
 ## Overview
 
 This folder is a compact, reviewer-facing reproduction package for ICA2. It contains:
